@@ -35,7 +35,7 @@ if ($test1 == 0){ print("<script> location.href = '../../index.php'; </script>")
     <button class="labPer btn btn-primary btn-lg"
             onclick="alerteEsp(1)"> OK </button>
     <button class="labPer btn btn-primary btn-lg bd-top"
-            onclick="alerteEsp(2)"> Sim/Não </button>
+            onclick="alerteEsp(2)"> Sim / Não </button>
     <p><?php ?></p>
 </div>
 

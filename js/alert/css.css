@@ -27,6 +27,23 @@
 
 /* - - - - - - - - - - B - - - - - - - - - - */
 
+.rtnDiv {
+    /* B */ border-radius: 0.25rem;
+            box-shadow:  0 0 5px rgba(255,255,255,.5);
+    /* C */  color: #fff;
+    /* F */ font-weight: normal;
+    /* H */ height: 55px;
+    /* L */ left: calc(50% - (400px/2));
+            line-height: 1.25;
+    /* P */ padding: 15px;
+            position: fixed;
+    /* T */ text-align: center;
+            top: -100px;
+    /* V */ vertical-align: middle;
+    /* W */ width: 400px;
+    /* Z */ z-index: 99999;
+}
+
 /* A */ /* B */ /* C */ /* D */ /* E */ /* F */
 /* G */ /* H */ /* I */ /* J */ /* K */ /* L */
 /* M */ /* N */ /* O */ /* P */ /* Q */ /* R */
