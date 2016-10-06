@@ -22,10 +22,12 @@ if ($test1 == 0){ print("<script> location.href = '../../index.php'; </script>")
     while ($confere = mysqli_fetch_assoc($result) ) { if ($confere['userid'] == $id_us) { $walp = $confere['wall'] . '.jpg'; } }
     print("<style> body { background-image: url('../../img/$walp'); } </style>"); ?>
 
+    <link rel="stylesheet" type="text/css" href="../../js/alert/css.css">
     <script src="../../js/alert/js.js"></script>
 
 </head>
 <body class="container text-md-center"> <br/>
+
 <header> <h1> LightBook </h1> <h2>Projeto: Alerta</h2> <br/> <?php include_once'mn.php' ?> </header>
 <section>
 
@@ -33,11 +35,25 @@ if ($test1 == 0){ print("<script> location.href = '../../index.php'; </script>")
     <button class="labPer btn btn-primary btn-lg"
             onclick="alerteEsp(1)"> OK </button>
     <button class="labPer btn btn-primary btn-lg bd-top"
-            onclick="alerteEsp(1)"> Sim/Não </button>
+            onclick="alerteEsp(2)"> Sim/Não </button>
     <p><?php ?></p>
 </div>
 
 </section>
+
 <?php include_once '../footer.php' ?>
+
+
+<!-- <div class="altDiv">
+    <div class="altCop">
+        <h4> OK </h4>
+    </div>
+
+    <div class='btn-group col-md-12 p-a-0' role='group'>
+        <button class='btn btn-danger  col-md-6 altBtn'>Não</button>
+        <button class='btn btn-success col-md-6 altBtn'>Sim</button>
+    </div>
+</div> -->
+
 </body>
 </html>
