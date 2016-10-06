@@ -42,7 +42,7 @@ if ($test1 == 0){ print("<script> location.href = '../index.php'; </script>"); }
                 onclick="toLoc('html5-music-player-app/index.html')"> html5-music-player-app </button>
 
         <button class="btn btn-primary btn-lg bd-top"
-                onclick="toLoc('http://interface.eyecon.ro/demos/')"> html5-music-player-app </button>
+                onclick="toLoc('http://interface.eyecon.ro/demos/')"> interface </button>
 
         <button class="btn btn-primary btn-lg bd-top"
                 onclick="toLoc('jquery.avgrund.js-master/example/index.html')"> jquery.avgrund.js-master </button>

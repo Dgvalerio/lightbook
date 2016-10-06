@@ -28,13 +28,12 @@ if ($test1 == 0){ print("<script> location.href = '../index.php'; </script>"); }
 <header> <h1> LightBook: <?php echo $usuario; ?> </h1> <br/> <?php include_once'mn.php' ?> </header>
 <section>
     <div class="btn-group-vertical btn-block" role="group">
-        <button class="labPer btn btn-primary btn-lg" onclick="toLocal(3)"> Atalhos </button>
-        <button class="labPer btn btn-primary btn-lg bd-top" onclick="toLocal(2)"> Planos de Fundo </button>
-        <button class="labPer btn btn-primary btn-lg bd-top" onclick="toLocal(5)"> Implementa </button>
-        <button class="labPer btn btn-primary btn-lg bd-top" onclick="toLocal(4)"> Projeto: Alerta! </button>
-        <button class="labPer btn btn-primary btn-lg bd-top" onclick="toLocal(6)"> Projeto: MySIG </button>
-        <button class="labPer btn btn-primary btn-lg bd-top" onclick="toLocal(7)"> Projeto: OkTasks </button>
-        <button class="labPer btn btn-primary btn-lg bd-top" onclick="toLocal(8)"> Projeto: Music </button>
+        <button class="labPer btn btn-primary btn-lg"           onclick="toLocal(3)"> Atalhos </button>
+        <button class="labPer btn btn-primary btn-lg bd-top"    onclick="toLocal(2)"> Planos de Fundo </button>
+        <button class="labPer btn btn-primary btn-lg bd-top"    onclick="toLocal(5)"> Implementa </button>
+        <button class="labPer btn btn-primary btn-lg bd-top"    onclick="toLocal(4)"> Projeto: Alerta! </button>
+        <button class="labPer btn btn-primary btn-lg bd-top"    onclick="toLocal(6)"> Projeto: MySIG </button>
+        <button class="labPer btn btn-primary btn-lg bd-top"    onclick="toLocal(7)"> Projeto: OkTasks </button>
         <p><?php ?></p>
     </div>
 </section>
