@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+/* - - - - - - - - - - C - - - - - - - - - - */
+
+.cN0, .cN1, .cN2, .cN3, .cN4 .cN5 { background: rgba(255, 55, 55, 0.5); }
+
+/* - - - - - - - - - - I - - - - - - - - - - */
+
+input[type="text"] { border: none; background: none; }
+
+/* - - - - - - - - - - N - - - - - - - - - - */
+
+.no td, .no th { padding: 0.4rem; }
+
+/* - - - - - - - - - - T - - - - - - - - - - */
+
+tr { text-align: center !important; }
+
+tr.no:hover {       background: rgba(65, 165, 245, 0.5); }
+tr.no td:hover {    background: rgba(75, 175, 255, 0.5); font-weight: bold; }

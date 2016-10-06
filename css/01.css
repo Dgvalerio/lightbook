@@ -1,0 +1,122 @@
+@charset "UTF-8";
+
+* {
+    -webkit-transition: all 0.95s;
+    -moz-transition:    all 0.95s ;
+    -ms-transition:     all 0.95s ;
+    -o-transition:      all 0.95s ;
+    transition:         all 0.95s ;
+}
+
+/* - - - - - - - - - - A - - - - - - - - - - */
+
+.aa {
+    height: 100%;
+    width: 100%;
+    display: block;
+    text-decoration: none;
+    color: #fff;
+}
+
+.aa:hover {
+    text-decoration: none;
+    color: #fff;
+}
+
+/* - - - - - - - - - - B - - - - - - - - - - */
+
+body {
+    background: url("../img/24606.jpg") no-repeat fixed;
+
+    background-size: cover;
+    -webkit-transition: 0.7s all;
+    -moz-transition: 0.7s all;
+    -o-transition: 0.7s all;
+    transition: 0.7s all;
+}
+
+.btnMenu {
+    z-index: 9999;
+    position: fixed;
+    float: right;
+    top: 7px;
+    right: 7px;
+    display: inline-block;
+    font-weight: normal;
+    line-height: 1.25;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    padding: 0; margin: 0;
+    font-size: 1rem;
+    border-radius: 0.25rem;
+    -webkit-transition: 0.7s all;
+    -moz-transition: 0.7s all;
+    -o-transition: 0.7s all;
+    transition: 0.7s all;
+    background-color: rgba(255,255,255,.7);
+    border-color: #ffffff;
+    -webkit-box-shadow:  0 0 5px rgba(255,255,255,.5);
+    -moz-box-shadow:  0 0 5px rgba(255,255,255,.5);
+    box-shadow:  0 0 5px rgba(255,255,255,.5);
+}
+
+.btnMenu:hover {
+    background-color: #fff;
+    -webkit-box-shadow:  0 0 5px rgba(0,0,0,.5);
+    -moz-box-shadow:  0 0 5px rgba(0,0,0,.5);
+    box-shadow:  0 0 5px rgba(0,0,0,.5);
+}
+
+.btnMenu:active {
+    -webkit-transition: 0.1s all;
+    -moz-transition: 0.1s all;
+    -o-transition: 0.1s all;
+    transition: 0.1s all;
+    background-color: #fff;
+    -webkit-box-shadow:  0 0 10px rgba(255,255,255,.7);
+    -moz-box-shadow:  0 0 10px rgba(255,255,255,.7);
+    box-shadow:  0 0 10px rgba(255,255,255,.7);
+}
+
+.bd-top { border-top: 1px solid rgba(0,0,0,.2); }
+.bd-all-rbl { border: 1px solid rgba(0,0,0,.2); border-radius: 0 0 0.25rem 0.25rem; }
+
+.b-cl-12 { background-color: rgba(255,255,255,.9); }
+.b-cl-11 { background-color: rgba(255,255,255,.8); }
+.b-cl-10 { background-color: rgba(250,250,250,.7); }
+.b-cl-09 { background-color: rgba(225,225,225,.7); }
+.b-cl-08 { background-color: rgba(200,200,200,.7); }
+.b-cl-07 { background-color: rgba(175,175,175,.7); }
+.b-cl-06 { background-color: rgba(150,150,150,.7); }
+.b-cl-05 { background-color: rgba(125,125,125,.7); }
+.b-cl-04 { background-color: rgba(100,100,100,.7); }
+.b-cl-03 { background-color: rgba(075,075,075,.7); }
+.b-cl-02 { background-color: rgba(050,050,050,.7); }
+.b-cl-01 { background-color: rgba(025,025,025,.7); }
+.b-cl-00 { background-color: rgba(000,000,000,.7); }
+
+/* - - - - - - - - - - C - - - - - - - - - - */
+
+.card { background-color: rgba(255,255,255,.1); }
+
+/* - - - - - - - - - - F - - - - - - - - - - */
+
+.floatMenu {
+    z-index: 9999;
+    position: fixed;
+    float: right;
+    top: 60px;
+    right: 3px;
+    padding: 0; margin: 0;
+    border-radius: 0.25rem;
+
+    -webkit-box-shadow:     0 0 5px rgba(255,255,255,.3);
+    -moz-box-shadow:        0 0 5px rgba(255,255,255,.3);
+    box-shadow:             0 0 5px rgba(255,255,255,.3);
+}
