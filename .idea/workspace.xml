@@ -1,0 +1,858 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="57e688eb-49db-47ab-a9ed-2693b62eab4c" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+    <ignored path="lightbook.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="lightbook">
+      <favorite_root url="file://$PROJECT_DIR$/_/msc/file/scan.php" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+    </favorites_list>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/_/alt/mn.php" />
+        <option value="$PROJECT_DIR$/_/tlh/header.php" />
+        <option value="$PROJECT_DIR$/_/wall/header.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/_/tlh/index.php" />
+        <option value="$PROJECT_DIR$/_/alt/index.php" />
+        <option value="$PROJECT_DIR$/js/alert/js.js" />
+        <option value="$PROJECT_DIR$/_/imp/mn.php" />
+        <option value="$PROJECT_DIR$/_/imp/alertify.js-0.3.11/example/index.html" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/1f6721d8-6f5b-42db-a08c-c4817fb0f582/console.sql" />
+        <option value="$PROJECT_DIR$/css/01.css" />
+        <option value="$PROJECT_DIR$/css/sig.css" />
+        <option value="$PROJECT_DIR$/_/SIG/index.php" />
+        <option value="$PROJECT_DIR$/_/SIG/edit.php" />
+        <option value="$PROJECT_DIR$/_/task/header.php" />
+        <option value="$PROJECT_DIR$/_/task/index.php" />
+        <option value="$PROJECT_DIR$/_/index.php" />
+        <option value="$PROJECT_DIR$/js/js.js" />
+        <option value="$PROJECT_DIR$/HVS/index.php" />
+        <option value="$PROJECT_DIR$/_/msc/index.php" />
+        <option value="$PROJECT_DIR$/_/imp/cute-file-browser/index.html" />
+        <option value="$PROJECT_DIR$/_/imp/cute-file-browser/scan.php" />
+        <option value="$PROJECT_DIR$/_/imp/0/QUnit/qunit-2.0.1.css" />
+        <option value="$PROJECT_DIR$/_/imp/0/QUnit/qunit-2.0.1.js" />
+        <option value="$PROJECT_DIR$/_/imp/gridster.js/test/jquery.gridder.html" />
+        <option value="$PROJECT_DIR$/_/imp/dsmorse-gridster.js-3613220/test/jquery.gridster.html" />
+        <option value="$PROJECT_DIR$/_/imp/dsmorse-gridster.js-3613220/demos/assets/css/demo.css" />
+        <option value="$PROJECT_DIR$/js/less-v2.7.1.js" />
+        <option value="$PROJECT_DIR$/_/imp/dsmorse-gridster.js-3613220/demos/chaosWidget.html" />
+        <option value="$PROJECT_DIR$/_/imp/dsmorse-gridster.js-3613220/demos/adding-widgets-dynamically.html" />
+        <option value="$PROJECT_DIR$/_/imp/dsmorse-gridster.js-3613220/demos/custom-drag-handle.html" />
+        <option value="$PROJECT_DIR$/_/imp/dsmorse-gridster.js-3613220/demos/grid-from-serialize.html" />
+        <option value="$PROJECT_DIR$/_/imp/dsmorse-gridster.js-3613220/demos/expandable-widgets.html" />
+        <option value="$PROJECT_DIR$/_/imp/dsmorse-gridster.js-3613220/demos/jquery.gridster.demo2.html" />
+        <option value="$PROJECT_DIR$/_/imp/dsmorse-gridster.js-3613220/demos/multiple-grids.html" />
+        <option value="$PROJECT_DIR$/_/imp/dsmorse-gridster.js-3613220/demos/responsive.html" />
+        <option value="$PROJECT_DIR$/_/imp/dsmorse-gridster.js-3613220/demos/resize-limits.html" />
+        <option value="$PROJECT_DIR$/_/imp/dsmorse-gridster.js-3613220/demos/resize.html" />
+        <option value="$PROJECT_DIR$/_/imp/dsmorse-gridster.js-3613220/demos/SwapDrop.html" />
+        <option value="$PROJECT_DIR$/_/imp/dsmorse-gridster.js-3613220/demos/sticky-postion.html" />
+        <option value="$PROJECT_DIR$/_/imp/dsmorse-gridster.js-3613220/demos/serialize.html" />
+        <option value="$PROJECT_DIR$/_/imp/dsmorse-gridster.js-3613220/demos/using-drag-callbacks.html" />
+        <option value="$PROJECT_DIR$/_/imp/dsmorse-gridster.js-3613220/demos/using-resize-callbacks.html" />
+        <option value="$PROJECT_DIR$/_/imp/dsmorse-gridster.js-3613220/demos/assets/css/2.css" />
+        <option value="$PROJECT_DIR$/_/imp/dsmorse-gridster.js-3613220/demos/dynamic-grid-width.html" />
+        <option value="$PROJECT_DIR$/_/imp/dsmorse-gridster.js-3613220/demos/assets/less/demo.less" />
+        <option value="$PROJECT_DIR$/_/imp/dsmorse-gridster.js-3613220/demos/index.html" />
+        <option value="$PROJECT_DIR$/_/imp/html5-music-player-app/index.html" />
+        <option value="$PROJECT_DIR$/_/imp/index.php" />
+        <option value="$PROJECT_DIR$/_/msc/file/files/styles.css" />
+        <option value="$PROJECT_DIR$/_/msc/file/scan.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP 7.0.9" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="754" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lightbook" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lightbook" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lightbook" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../php/php.exe" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\lightbook\_\msc" />
+      <recent name="C:\xampp\htdocs\lightbook\_\imp\dsmorse-gridster.js-3613220\demos\assets\css" />
+      <recent name="C:\xampp\htdocs\lightbook\_\imp\dsmorse-gridster.js-3613220" />
+      <recent name="C:\xampp\htdocs\lightbook\_\imp\0" />
+      <recent name="C:\xampp\htdocs\lightbook\_\imp\cute-file-browser\files" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\lightbook\_\imp\cute-file-browser\files" />
+      <recent name="C:\xampp\htdocs\lightbook\_\imp\cute-file-browser\assets" />
+      <recent name="C:\xampp\htdocs\lightbook\_\wall" />
+      <recent name="C:\xampp\htdocs\lightbook\_\01" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Home\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="57e688eb-49db-47ab-a9ed-2693b62eab4c" name="Default" comment="" />
+      <created>1474553607477</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1474553607477</updated>
+      <workItem from="1474553614489" duration="11210000" />
+      <workItem from="1474626791869" duration="5431000" />
+      <workItem from="1474656508069" duration="2379000" />
+      <workItem from="1474716544894" duration="28864000" />
+      <workItem from="1474815837266" duration="793000" />
+      <workItem from="1474909335000" duration="10097000" />
+      <workItem from="1475089288779" duration="5585000" />
+      <workItem from="1475144465681" duration="2347000" />
+      <workItem from="1475155005034" duration="954000" />
+      <workItem from="1475259391937" duration="11640000" />
+      <workItem from="1475330823346" duration="8460000" />
+      <workItem from="1475354198701" duration="4753000" />
+      <workItem from="1475449102071" duration="2362000" />
+      <workItem from="1475539889337" duration="28381000" />
+    </task>
+    <task id="LOCAL-00001" summary="08:26">
+      <created>1475753212206</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1475753212206</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="123256000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20272315" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3277311" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290469" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3277311" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="08:26" />
+    <option name="LAST_COMMIT_MESSAGE" value="08:26" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/_/SIG/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="90" column="29" selection-start-line="90" selection-start-column="29" selection-end-line="90" selection-end-column="29" />
+          <folding>
+            <element signature="e#1737#2720#0#PHP" expanded="false" />
+            <element signature="e#1794#1853#0#PHP" expanded="false" />
+            <element signature="e#1854#1921#0#PHP" expanded="false" />
+            <element signature="e#1922#1992#0#PHP" expanded="false" />
+            <element signature="e#1993#2054#0#PHP" expanded="false" />
+            <element signature="e#2055#2113#0#PHP" expanded="false" />
+            <element signature="e#2114#2175#0#PHP" expanded="false" />
+            <element signature="e#2176#2236#0#PHP" expanded="false" />
+            <element signature="e#2237#2316#0#PHP" expanded="false" />
+            <element signature="e#2317#2384#0#PHP" expanded="false" />
+            <element signature="e#2385#2455#0#PHP" expanded="false" />
+            <element signature="e#2456#2519#0#PHP" expanded="false" />
+            <element signature="e#2520#2580#0#PHP" expanded="false" />
+            <element signature="e#2581#2656#0#PHP" expanded="false" />
+            <element signature="e#2657#2720#0#PHP" expanded="false" />
+            <marker date="1475450382163" expanded="true" signature="655:676" ph="select * fro... logbook" />
+            <marker date="1475450382163" expanded="true" signature="873:896" ph="select * fro... lightbook" />
+            <marker date="1475450382163" expanded="true" signature="1173:1382" ph="create table... lightsig" />
+            <marker date="1475450382163" expanded="true" signature="1509:1531" ph="select * fro... lightbook" />
+            <marker date="1475450382163" expanded="true" signature="2737:2843" ph="insert into lightsig... " />
+            <marker date="1475450382163" expanded="true" signature="3662:3682" ph="select * fro... lights" />
+            <marker date="1475450382163" expanded="true" signature="4645:4667" ph="select * fro... lightsig" />
+            <marker date="1475450382163" expanded="true" signature="5580:5687" ph="..." />
+            <marker date="1475450382163" expanded="true" signature="5580:5716" ph="..." />
+            <marker date="1475450382163" expanded="true" signature="5580:5761" ph="..." />
+            <marker date="1475450382163" expanded="true" signature="5580:6309" ph="..." />
+            <marker date="1475450382163" expanded="true" signature="6723:6846" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_/task/mn.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+          <folding>
+            <element signature="e#471#478#0#HTML" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_/task/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+          <folding>
+            <marker date="1475584878281" expanded="true" signature="607:628" ph="select * fro... logbook" />
+            <marker date="1475584878281" expanded="true" signature="825:848" ph="select * fro... lightbook" />
+            <marker date="1475584878281" expanded="true" signature="1123:1351" ph="create table... tasks" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_/msc/mn.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/js.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="27" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HVS/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="6" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_/task/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="38" column="13" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
+          <folding>
+            <element signature="e#494#707#0#HTML" expanded="false" />
+            <element signature="e#737#839#0#HTML" expanded="false" />
+            <marker date="1475585135806" expanded="true" signature="158:178" ph="select * fro... lights" />
+            <marker date="1475585135806" expanded="true" signature="1961:2006" ph="select * fro... atalhos" />
+            <marker date="1475585135806" expanded="true" signature="2207:2477" ph="..." />
+            <marker date="1475585135806" expanded="false" signature="2443:2450" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="36" column="97" selection-start-line="36" selection-start-column="97" selection-end-line="36" selection-end-column="97" />
+          <folding>
+            <marker date="1475585897149" expanded="true" signature="612:633" ph="select * fro... logbook" />
+            <marker date="1475585897149" expanded="true" signature="835:858" ph="select * fro... lightbook" />
+            <marker date="1475585897149" expanded="true" signature="1763:1783" ph="select * fro... lights" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_/imp/cute-file-browser/files/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_/imp/cute-file-browser/assets/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6094">
+          <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_/imp/cute-file-browser/scan.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_/imp/cute-file-browser/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_/wall/01.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+          <folding>
+            <marker date="1474752632788" expanded="true" signature="582:782" ph="..." />
+            <marker date="1474752632788" expanded="true" signature="615:683" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_/imp/0/QUnit/qunit-2.0.1.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_/imp/0/QUnit/qunit-2.0.1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../StudyBook/0/gridster.js/test/jquery.gridder.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_/imp/gridster.js/test/jquery.gridder.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_/imp/0/qunit-master/src/core/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_/imp/dsmorse-gridster.js-3613220/test/jquery.gridster.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_/imp/dsmorse-gridster.js-3613220/demos/assets/img/sprite.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_/imp/dsmorse-gridster.js-3613220/assets/demo.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_/imp/dsmorse-gridster.js-3613220/demos/assets/css/demo.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/less-v2.7.1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1475711599966" expanded="false" signature="0:2" ph="/** Created by Home on 05/10/2016. ...*/" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_/imp/dsmorse-gridster.js-3613220/demos/chaosWidget.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_/imp/dsmorse-gridster.js-3613220/demos/grid-from-serialize.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="62" selection-start-line="7" selection-start-column="62" selection-end-line="7" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_/imp/dsmorse-gridster.js-3613220/demos/expandable-widgets.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="62" selection-start-line="7" selection-start-column="62" selection-end-line="7" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_/imp/dsmorse-gridster.js-3613220/demos/jquery.gridster.demo2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="62" selection-start-line="8" selection-start-column="62" selection-end-line="8" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_/imp/dsmorse-gridster.js-3613220/demos/multiple-grids.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="62" selection-start-line="7" selection-start-column="62" selection-end-line="7" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_/imp/dsmorse-gridster.js-3613220/demos/responsive.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="62" selection-start-line="8" selection-start-column="62" selection-end-line="8" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_/imp/dsmorse-gridster.js-3613220/demos/resize-limits.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="62" selection-start-line="7" selection-start-column="62" selection-end-line="7" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_/imp/dsmorse-gridster.js-3613220/demos/resize.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="62" selection-start-line="7" selection-start-column="62" selection-end-line="7" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_/imp/dsmorse-gridster.js-3613220/demos/SwapDrop.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="62" selection-start-line="9" selection-start-column="62" selection-end-line="9" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_/imp/dsmorse-gridster.js-3613220/demos/sticky-postion.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="62" selection-start-line="7" selection-start-column="62" selection-end-line="7" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_/imp/dsmorse-gridster.js-3613220/demos/using-resize-callbacks.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="62" selection-start-line="7" selection-start-column="62" selection-end-line="7" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_/imp/dsmorse-gridster.js-3613220/demos/serialize.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="62" selection-start-line="7" selection-start-column="62" selection-end-line="7" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_/imp/dsmorse-gridster.js-3613220/demos/using-drag-callbacks.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="62" selection-start-line="7" selection-start-column="62" selection-end-line="7" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_/imp/dsmorse-gridster.js-3613220/demos/custom-drag-handle.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="7" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_/imp/dsmorse-gridster.js-3613220/demos/adding-widgets-dynamically.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="79" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_/imp/dsmorse-gridster.js-3613220/demos/assets/css/2.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="477" column="47" selection-start-line="477" selection-start-column="4" selection-end-line="477" selection-end-column="47" />
+          <folding>
+            <element signature="e#2351#3224#2" expanded="true" />
+            <element signature="e#4302#4336#0" expanded="false" />
+            <element signature="e#4768#4941#0" expanded="false" />
+            <element signature="e#4945#5023#0" expanded="false" />
+            <element signature="e#5034#5075#0" expanded="false" />
+            <element signature="e#5094#5166#0" expanded="false" />
+            <element signature="e#5205#5340#0" expanded="false" />
+            <element signature="e#5359#5455#0" expanded="false" />
+            <element signature="e#5463#5537#0" expanded="false" />
+            <element signature="e#5552#5629#0" expanded="false" />
+            <element signature="e#5643#5711#0" expanded="false" />
+            <element signature="e#5763#5821#0" expanded="false" />
+            <element signature="e#5842#5985#0" expanded="false" />
+            <element signature="e#6005#6056#0" expanded="false" />
+            <element signature="e#6083#6126#0" expanded="false" />
+            <element signature="e#6145#6168#0" expanded="false" />
+            <element signature="e#6177#6241#0" expanded="false" />
+            <element signature="e#6266#6388#0" expanded="false" />
+            <element signature="e#6436#6466#0" expanded="false" />
+            <element signature="e#6490#6757#0" expanded="false" />
+            <element signature="e#6787#6807#0" expanded="false" />
+            <element signature="e#6837#6871#0" expanded="false" />
+            <element signature="e#6903#6926#0" expanded="false" />
+            <element signature="e#6936#7034#0" expanded="false" />
+            <element signature="e#7050#7075#0" expanded="false" />
+            <element signature="e#7091#7180#0" expanded="false" />
+            <element signature="e#7192#7326#0" expanded="false" />
+            <element signature="e#7353#7376#0" expanded="false" />
+            <element signature="e#7383#7409#0" expanded="false" />
+            <element signature="e#7432#7484#0" expanded="false" />
+            <element signature="e#7538#7618#0" expanded="false" />
+            <element signature="e#7632#7678#0" expanded="false" />
+            <element signature="e#7691#7716#0" expanded="false" />
+            <element signature="e#7729#7774#0" expanded="false" />
+            <element signature="e#7790#7856#0" expanded="false" />
+            <element signature="e#7881#7903#0" expanded="false" />
+            <element signature="e#7947#8052#0" expanded="false" />
+            <element signature="e#8067#8097#0" expanded="false" />
+            <element signature="e#8125#8151#0" expanded="false" />
+            <element signature="e#8166#8263#0" expanded="false" />
+            <element signature="e#8284#8309#0" expanded="false" />
+            <element signature="e#8321#8371#0" expanded="false" />
+            <element signature="e#8383#8451#0" expanded="false" />
+            <element signature="e#8465#8537#0" expanded="false" />
+            <element signature="e#8549#8577#0" expanded="false" />
+            <element signature="e#8589#8680#0" expanded="false" />
+            <element signature="e#8703#8731#0" expanded="false" />
+            <element signature="e#8744#8771#0" expanded="false" />
+            <element signature="e#8795#8825#0" expanded="false" />
+            <element signature="e#8838#8864#0" expanded="false" />
+            <element signature="e#8876#8994#0" expanded="false" />
+            <element signature="e#9012#9063#0" expanded="false" />
+            <element signature="e#9181#9222#0" expanded="false" />
+            <element signature="e#9240#9376#0" expanded="false" />
+            <element signature="e#9396#9497#0" expanded="false" />
+            <element signature="e#9520#9642#0" expanded="false" />
+            <element signature="e#9886#9914#0" expanded="false" />
+            <element signature="e#9935#10035#0" expanded="false" />
+            <element signature="e#10171#10207#0" expanded="false" />
+            <element signature="e#10216#10268#0" expanded="false" />
+            <element signature="e#10293#10330#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_/imp/dsmorse-gridster.js-3613220/demos/assets/less/demo.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="63" column="3" selection-start-line="63" selection-start-column="3" selection-end-line="63" selection-end-column="3" />
+          <folding>
+            <element signature="e#477#684#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_/imp/dsmorse-gridster.js-3613220/demos/dynamic-grid-width.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_/imp/dsmorse-gridster.js-3613220/demos/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="16" column="45" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_/imp/html5-music-player-app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-272">
+          <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_/msc/app/assets/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="548" column="0" selection-start-line="548" selection-start-column="0" selection-end-line="548" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_/msc/file/files/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_/imp/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="46" column="35" selection-start-line="46" selection-start-column="35" selection-end-line="46" selection-end-column="35" />
+          <folding>
+            <marker date="1475720780473" expanded="true" signature="612:633" ph="select * fro... logbook" />
+            <marker date="1475720780473" expanded="true" signature="835:858" ph="select * fro... lightbook" />
+            <marker date="1475720780473" expanded="true" signature="1778:1798" ph="select * fro... lights" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/1f6721d8-6f5b-42db-a08c-c4817fb0f582/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_/msc/file/assets/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_/msc/file/scan.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="53" column="0" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_/msc/file/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_/msc/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="34" column="27" selection-start-line="34" selection-start-column="27" selection-end-line="34" selection-end-column="27" />
+          <folding>
+            <marker date="1475694921879" expanded="true" signature="607:628" ph="select * fro... logbook" />
+            <marker date="1475694921879" expanded="true" signature="825:848" ph="select * fro... lightbook" />
+            <marker date="1475694921879" expanded="true" signature="1738:1758" ph="select * fro... lights" />
+            <marker date="1475694921879" expanded="true" signature="2659:2866" ph="..." />
+            <marker date="1475694921879" expanded="true" signature="2690:2705" ph="..." />
+            <marker date="1475694921879" expanded="true" signature="2736:2852" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
