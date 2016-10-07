@@ -7,9 +7,9 @@ $result = mysqli_query($link, "select * from logbook;" ); if (!$result) {}
 while ($confere = mysqli_fetch_assoc($result) ) { if ($confere['ip'] == $ipp) { $id_usuario = $confere['userid']; break; } }
 
 // RECEBENDO OS DADOS PREENCHIDOS DO FORMULÁRIO !
-$vId   = $_POST ["deletaAtl"];
+$vId   = $_POST ["deleta"];
 
 /* Criação da Tabela Atalhos */
-$sql = "delete from atalhos where id = '$vId';";
+$sql = "delete from tasks where id = '$vId';";
 if (mysqli_query($link, $sql)) { }
 ?>

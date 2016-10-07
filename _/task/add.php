@@ -8,20 +8,17 @@ while ($confere = mysqli_fetch_assoc($result) ) { if ($confere['ip'] == $ipp) { 
 
 // RECEBENDO OS DADOS PREENCHIDOS DO FORMULÁRIO !
 $vNom   = $_POST ["inpNom"];
-$vLin   = $_POST ["inpLin"];
-$pLetras = substr($vLin, 0, 4);
+$vCat   = $_POST ["inpCat"];
 
-if ($pLetras != 'http' && $pLetras != 'ftp:' ) { $vLin = 'http://' . $vLin; }
-
-/* Criação da Tabela Atalhos */ $sql = 'create table if not exists atalhos ( 
+/* Criação da Tabela Atalhos */ $sql = 'create table if not exists tasks ( 
   id int not null auto_increment, 
   userid int not null, 
-  nome varchar(30), 
-  link varchar(50),
+  nome varchar(50), 
+  catg varchar(20),
   primary key(id), 
   foreign key (userid) references lightbook(id)
 ) default charset = utf8;'; if (mysqli_query($link, $sql)) { } else { echo 'Erro!!!' . mysqli_connect_error() . "\n"; }
 
-$sql = "insert into atalhos (userid, nome, link) values ('$id_usuario', '$vNom', '$vLin');";
+$sql = "insert into tasks (userid, nome, catg) values ('$id_usuario', '$vNom', '$vCat');";
 if (mysqli_query($link, $sql)) { }
 ?>
