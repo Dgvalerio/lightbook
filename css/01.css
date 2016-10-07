@@ -1,11 +1,11 @@
 @charset "UTF-8";
 
 * {
-    -webkit-transition: all 0.95s;
-    -moz-transition:    all 0.95s ;
-    -ms-transition:     all 0.95s ;
-    -o-transition:      all 0.95s ;
-    transition:         all 0.95s ;
+    -webkit-transition: all 0.7s;
+    -moz-transition:    all 0.7s ;
+    -ms-transition:     all 0.7s ;
+    -o-transition:      all 0.7s ;
+    transition:         all 0.7s ;
 }
 
 /* - - - - - - - - - - A - - - - - - - - - - */
@@ -27,12 +27,7 @@
 
 body {
     background: url("../img/24606.jpg") no-repeat fixed;
-
     background-size: cover;
-    -webkit-transition: 0.7s all;
-    -moz-transition: 0.7s all;
-    -o-transition: 0.7s all;
-    transition: 0.7s all;
 }
 
 .btnMenu {
@@ -55,10 +50,6 @@ body {
     padding: 0; margin: 0;
     font-size: 1rem;
     border-radius: 0.25rem;
-    -webkit-transition: 0.7s all;
-    -moz-transition: 0.7s all;
-    -o-transition: 0.7s all;
-    transition: 0.7s all;
     background-color: rgba(255,255,255,.7);
     border-color: #ffffff;
     -webkit-box-shadow:  0 0 5px rgba(255,255,255,.5);

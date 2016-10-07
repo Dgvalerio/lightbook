@@ -22,38 +22,22 @@ $result = mysqli_query($link, "select * from lightsig;" ); if (!$result) {} whil
 if ($test2 == 0 ) {
     print(" <script> alert('iuhuuuuuuu') </script> ");
     for ($i = 1; $i <= 15 ;$i+=1) {
-        if ($i == 1) {
-            $vMat = "Biologia";
-        } elseif ($i == 2) {
-            $vMat = "Desenho";
-        } elseif ($i == 3) {
-            $vMat = "Educação Física";
-        } elseif ($i == 4) {
-            $vMat = "Estrutura de dados";
-        } elseif ($i == 5) {
-            $vMat = "Filosofia";
-        } elseif ($i == 6) {
-            $vMat = "Física";
-        } elseif ($i == 7) {
-            $vMat = "Geografia";
-        } elseif ($i == 8) {
-            $vMat = "Historia";
-        } elseif ($i == 9) {
-            $vMat = "Introdução A Banco De Dados";
-        } elseif ($i == 10) {
-            $vMat = "Língua Inglesa";
-        } elseif ($i == 11) {
-            $vMat = "Língua Portuguesa";
-        } elseif ($i == 12) {
-            $vMat = "Matemática";
-        } elseif ($i == 13) {
-            $vMat = "Química";
-        } elseif ($i == 14) {
-            $vMat = "Sistemas De Computação";
-        } elseif ($i == 15) {
-            $vMat = "Sociologia";
-        }
-        $sql = "insert into lightsig (iduser, nome, b1, b2, b3, b4) values ('$id_us', '$vMat', '$B1', '$B2', '$B3', '$B4');"; if (mysqli_query($link, $sql)) { } else {print ("Error" . mysqli_error($link));}
+        if ($i == 1) {          $vMat = "Biologia";
+        } elseif ($i == 2) {    $vMat = "Desenho";
+        } elseif ($i == 3) {    $vMat = "Educação Física";
+        } elseif ($i == 4) {    $vMat = "Estrutura de dados";
+        } elseif ($i == 5) {    $vMat = "Filosofia";
+        } elseif ($i == 6) {    $vMat = "Física";
+        } elseif ($i == 7) {    $vMat = "Geografia";
+        } elseif ($i == 8) {    $vMat = "Historia";
+        } elseif ($i == 9) {    $vMat = "Introdução A Banco De Dados";
+        } elseif ($i == 10) {   $vMat = "Língua Inglesa";
+        } elseif ($i == 11) {   $vMat = "Língua Portuguesa";
+        } elseif ($i == 12) {   $vMat = "Matemática";
+        } elseif ($i == 13) {   $vMat = "Química";
+        } elseif ($i == 14) {   $vMat = "Sistemas De Computação";
+        } elseif ($i == 15) {   $vMat = "Sociologia";
+        } $sql = "insert into lightsig (iduser, nome, b1, b2, b3, b4) values ('$id_us', '$vMat', '$B1', '$B2', '$B3', '$B4');"; if (mysqli_query($link, $sql)) { } else {print ("Error" . mysqli_error($link));}
     }
 }
 
