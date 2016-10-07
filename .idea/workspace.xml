@@ -4,9 +4,6 @@
     <list default="true" id="57e688eb-49db-47ab-a9ed-2693b62eab4c" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/index.php" afterPath="$PROJECT_DIR$/_/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/task/add.php" afterPath="$PROJECT_DIR$/_/task/add.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/task/del.php" afterPath="$PROJECT_DIR$/_/task/del.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/task/index.php" afterPath="$PROJECT_DIR$/_/task/index.php" />
     </list>
     <ignored path="lightbook.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -40,12 +37,12 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="35" column="88" selection-start-line="35" selection-start-column="88" selection-end-line="35" selection-end-column="88" />
+            <state relative-caret-position="246">
+              <caret line="31" column="91" selection-start-line="31" selection-start-column="91" selection-end-line="31" selection-end-column="91" />
               <folding>
-                <marker date="1475867221895" expanded="true" signature="612:633" ph="select * fro... logbook" />
-                <marker date="1475867221895" expanded="true" signature="835:858" ph="select * fro... lightbook" />
-                <marker date="1475867221895" expanded="true" signature="1763:1783" ph="select * fro... lights" />
+                <marker date="1475868015844" expanded="true" signature="612:633" ph="select * fro... logbook" />
+                <marker date="1475868015844" expanded="true" signature="835:858" ph="select * fro... lightbook" />
+                <marker date="1475868015844" expanded="true" signature="1763:1783" ph="select * fro... lights" />
               </folding>
             </state>
           </provider>
@@ -295,7 +292,7 @@
       <workItem from="1475449102071" duration="2362000" />
       <workItem from="1475539889337" duration="28381000" />
       <workItem from="1475766423906" duration="18926000" />
-      <workItem from="1475803632741" duration="5550000" />
+      <workItem from="1475803632741" duration="6342000" />
     </task>
     <task id="LOCAL-00001" summary="08:26">
       <created>1475753212206</created>
@@ -332,11 +329,18 @@
       <option name="project" value="LOCAL" />
       <updated>1475787470294</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="7 de Outubro de 2016&#10;16 Horas e 07 Minutos">
+      <created>1475867304751</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1475867304751</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="147732000" />
+    <option name="totallyTimeSpent" value="148524000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="442" y="0" width="931" height="745" extended-state="0" />
@@ -380,7 +384,8 @@
     <MESSAGE value="12:54" />
     <MESSAGE value="16:29" />
     <MESSAGE value="17:57" />
-    <option name="LAST_COMMIT_MESSAGE" value="17:57" />
+    <MESSAGE value="7 de Outubro de 2016&#10;16 Horas e 07 Minutos" />
+    <option name="LAST_COMMIT_MESSAGE" value="7 de Outubro de 2016&#10;16 Horas e 07 Minutos" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -838,12 +843,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="35" column="88" selection-start-line="35" selection-start-column="88" selection-end-line="35" selection-end-column="88" />
+        <state relative-caret-position="246">
+          <caret line="31" column="91" selection-start-line="31" selection-start-column="91" selection-end-line="31" selection-end-column="91" />
           <folding>
-            <marker date="1475867221895" expanded="true" signature="612:633" ph="select * fro... logbook" />
-            <marker date="1475867221895" expanded="true" signature="835:858" ph="select * fro... lightbook" />
-            <marker date="1475867221895" expanded="true" signature="1763:1783" ph="select * fro... lights" />
+            <marker date="1475868015844" expanded="true" signature="612:633" ph="select * fro... logbook" />
+            <marker date="1475868015844" expanded="true" signature="835:858" ph="select * fro... lightbook" />
+            <marker date="1475868015844" expanded="true" signature="1763:1783" ph="select * fro... lights" />
           </folding>
         </state>
       </provider>

@@ -29,7 +29,7 @@ if ($test1 == 0){ print("<script> location.href = '../index.php'; </script>"); }
 <section>
     <div class="btn-group-vertical btn-block" role="group">
         <button class="labPer btn btn-primary btn-lg"           onclick="toLocal(3)"> (+) Atalhos           </button>
-        <button class="labPer btn btn-primary btn-lg bd-top"    onclick="toLocal(2)"> (!) Planos de Fundo   </button>
+        <button class="labPer btn btn-primary btn-lg bd-top"    onclick="toLocal(2)"> (!)(+) Planos de Fundo   </button>
         <button class="labPer btn btn-primary btn-lg bd-top"    onclick="toLocal(5)"> (+) Implementa        </button>
         <button class="labPer btn btn-primary btn-lg bd-top"    onclick="toLocal(4)"> (+) Projeto: Alerta!  </button>
         <button class="labPer btn btn-primary btn-lg bd-top"    onclick="toLocal(6)"> (-) Projeto: MySIG    </button>
@@ -37,6 +37,11 @@ if ($test1 == 0){ print("<script> location.href = '../index.php'; </script>"); }
         <p><?php ?></p>
     </div>
 </section>
+<div>
+    <p> <b> ! </b>: Parado. </p>
+    <p> <b> + </b>: Em bom estado. </p>
+    <p> <b> - </b>: Em estado ruim. </p>
+</div>
 <?php include_once 'footer.php' ?>
 </body>
 </html>
