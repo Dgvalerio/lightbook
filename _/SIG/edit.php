@@ -24,13 +24,6 @@ if ($test1 == 0){ print("<script> location.href = '../../index.php'; </script>")
   n1 float,   p1 float,
   n2 float,   p2 float,
   n3 float,   p3 float,
-  n4 float,   p4 float,
-  n5 float,   p5 float,   
-  n6 float,   p6 float,
-  n7 float,   p7 float,
-  n8 float,   p8 float,
-  n9 float,   p9 float,
-  n10 float,  p10 float,
   mb float,
   bm int,
   primary key(id)
@@ -118,7 +111,7 @@ $nBim = isset ($_POST ["nBim"])? $_POST ["nBim"]:'';
     <div id="pn01" class="">
         <table class="table b-cl-12 text-md-left table-bordered" id="tab">
             <?php $vId = '-'; $i = 1;
-            $result = mysqli_query($link, "select * from lightsig_not where bm = $nBim;" ); if (!$result) {}
+            $result = mysqli_query($link, "select * from lightsig_not where bm = '$nBim';" ); if (!$result) {}
 
             print (" <thead> <tr> <th>$vMat: $vNot</th> <th>Nota</th> <th>Peso</th> </tr> </thead> <tbody id='conf'> ");
 

@@ -4,7 +4,6 @@
     <list default="true" id="57e688eb-49db-47ab-a9ed-2693b62eab4c" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/SIG/edit.php" afterPath="$PROJECT_DIR$/_/SIG/edit.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/SIG/index.php" afterPath="$PROJECT_DIR$/_/SIG/index.php" />
     </list>
     <ignored path="lightbook.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -58,53 +57,39 @@
       <file leaf-file-name="edit.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_/SIG/edit.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="65" column="18" selection-start-line="65" selection-start-column="18" selection-end-line="65" selection-end-column="18" />
+            <state relative-caret-position="264">
+              <caret line="115" column="46" selection-start-line="115" selection-start-column="46" selection-end-line="115" selection-end-column="46" />
               <folding>
-                <element signature="e#2167#3337#0#PHP" expanded="false" />
-                <element signature="e#2242#3335#0#PHP" expanded="false" />
-                <element signature="e#2282#3130#0#PHP" expanded="false" />
-                <element signature="e#2336#2386#0#PHP" expanded="false" />
-                <element signature="e#2387#2445#0#PHP" expanded="false" />
-                <element signature="e#2446#2507#0#PHP" expanded="false" />
-                <element signature="e#2508#2560#0#PHP" expanded="false" />
-                <element signature="e#2561#2610#0#PHP" expanded="false" />
-                <element signature="e#2611#2663#0#PHP" expanded="false" />
-                <element signature="e#2664#2715#0#PHP" expanded="false" />
-                <element signature="e#2716#2786#0#PHP" expanded="false" />
-                <element signature="e#2787#2844#0#PHP" expanded="false" />
-                <element signature="e#2845#2905#0#PHP" expanded="false" />
-                <element signature="e#2906#2959#0#PHP" expanded="false" />
-                <element signature="e#2960#3010#0#PHP" expanded="false" />
-                <element signature="e#3011#3076#0#PHP" expanded="false" />
-                <element signature="e#3077#3130#0#PHP" expanded="false" />
-                <element signature="n#html#0;n#!!top" expanded="false" />
-                <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#script#4;n#head#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="e#4685#5340#0#HTML" expanded="false" />
-                <element signature="e#4762#5329#0#HTML" expanded="false" />
-                <element signature="e#4809#5314#0#HTML" expanded="false" />
-                <element signature="e#4928#5296#0#HTML" expanded="false" />
-                <element signature="e#5096#5274#0#HTML" expanded="false" />
-                <element signature="e#5148#5248#0#HTML" expanded="false" />
-                <element signature="n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="e#1995#3165#0#PHP" expanded="false" />
+                <element signature="e#2070#3163#0#PHP" expanded="false" />
+                <element signature="e#2110#2958#0#PHP" expanded="false" />
+                <element signature="e#2164#2214#0#PHP" expanded="false" />
+                <element signature="e#2215#2273#0#PHP" expanded="false" />
+                <element signature="e#2274#2335#0#PHP" expanded="false" />
+                <element signature="e#2336#2388#0#PHP" expanded="false" />
+                <element signature="e#2389#2438#0#PHP" expanded="false" />
+                <element signature="e#2439#2491#0#PHP" expanded="false" />
+                <element signature="e#2492#2543#0#PHP" expanded="false" />
+                <element signature="e#2544#2614#0#PHP" expanded="false" />
+                <element signature="e#2615#2672#0#PHP" expanded="false" />
+                <element signature="e#2673#2733#0#PHP" expanded="false" />
+                <element signature="e#2734#2787#0#PHP" expanded="false" />
+                <element signature="e#2788#2838#0#PHP" expanded="false" />
+                <element signature="e#2839#2904#0#PHP" expanded="false" />
+                <element signature="e#2905#2958#0#PHP" expanded="false" />
                 <element signature="n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="e#6203#6881#0#PHP" expanded="false" />
-                <element signature="e#6467#6867#0#PHP" expanded="false" />
-                <marker date="1475966974790" expanded="false" signature="655:676" ph="select * fro... logbook" />
-                <marker date="1475966974790" expanded="false" signature="873:896" ph="select * fro... lightbook" />
-                <marker date="1475966974790" expanded="false" signature="1163:1372" ph="create table... lightsig" />
-                <marker date="1475966974790" expanded="false" signature="1500:1931" ph="create table... lightsig_not" />
-                <marker date="1475966974790" expanded="false" signature="2058:2080" ph="select * fro... lightsig" />
-                <marker date="1475966974790" expanded="false" signature="3139:3245" ph="insert into lightsig... " />
-                <marker date="1475966974790" expanded="false" signature="4223:4243" ph="select * fro... lights" />
-                <marker date="1475966974790" expanded="false" signature="4587:4609" ph="select * fro... lightsig" />
-                <marker date="1475966974790" expanded="false" signature="5815:5920" ph="..." />
-                <marker date="1475966974790" expanded="false" signature="5844:5920" ph="..." />
-                <marker date="1475966974790" expanded="false" signature="5919:5920" ph="..." />
-                <marker date="1475966974790" expanded="false" signature="6002:6040" ph="select * fro... lightsig_not" />
-                <marker date="1475966974790" expanded="false" signature="6558:6795" ph="..." />
+                <element signature="e#6297#6697#0#PHP" expanded="false" />
+                <marker date="1475967650346" expanded="false" signature="655:676" ph="select * fro... logbook" />
+                <marker date="1475967650346" expanded="false" signature="873:896" ph="select * fro... lightbook" />
+                <marker date="1475967650346" expanded="false" signature="1163:1372" ph="create table... lightsig" />
+                <marker date="1475967650346" expanded="false" signature="1500:1759" ph="create table... lightsig_not" />
+                <marker date="1475967650346" expanded="false" signature="1886:1908" ph="select * fro... lightsig" />
+                <marker date="1475967650346" expanded="false" signature="2967:3073" ph="insert into lightsig... " />
+                <marker date="1475967650346" expanded="false" signature="4051:4071" ph="select * fro... lights" />
+                <marker date="1475967650346" expanded="false" signature="4415:4437" ph="select * fro... lightsig" />
+                <marker date="1475967650346" expanded="true" signature="5830:5868" ph="select * fro... lightsig_not" />
+                <marker date="1475967650346" expanded="true" signature="5830:5875" ph="select * fro... lightsig_not" />
+                <marker date="1475967650346" expanded="true" signature="6388:6625" ph="..." />
               </folding>
             </state>
           </provider>
@@ -113,8 +98,8 @@
       <file leaf-file-name="console_1.sql" pinned="false" current-in-tab="false">
         <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/1f6721d8-6f5b-42db-a08c-c4817fb0f582/console_1.sql">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="4" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="4" />
+            <state relative-caret-position="31">
+              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="27" selection-end-column="2" />
               <folding />
             </state>
           </provider>
@@ -184,8 +169,8 @@
         <option value="$PROJECT_DIR$/_/pgb/index.php" />
         <option value="$PROJECT_DIR$/_/index.php" />
         <option value="$PROJECT_DIR$/css/01.css" />
-        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/1f6721d8-6f5b-42db-a08c-c4817fb0f582/console_1.sql" />
         <option value="$PROJECT_DIR$/_/SIG/index.php" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/1f6721d8-6f5b-42db-a08c-c4817fb0f582/console_1.sql" />
         <option value="$PROJECT_DIR$/_/SIG/edit.php" />
       </list>
     </option>
@@ -336,7 +321,7 @@
       <workItem from="1475766423906" duration="18926000" />
       <workItem from="1475803632741" duration="10554000" />
       <workItem from="1475888264627" duration="2659000" />
-      <workItem from="1475938678399" duration="17534000" />
+      <workItem from="1475938678399" duration="18226000" />
     </task>
     <task id="LOCAL-00001" summary="08:26">
       <created>1475753212206</created>
@@ -408,17 +393,24 @@
       <option name="project" value="LOCAL" />
       <updated>1475965703804</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="8 de Outubro de 2016&#10;19 Horas e 50 Minutos">
+      <created>1475967022942</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1475967022942</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="172929000" />
+    <option name="totallyTimeSpent" value="173621000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="448" y="0" width="925" height="745" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32605043" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32593855" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29132947" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32764506" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
@@ -465,7 +457,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="2" />
+      <option name="time" value="3" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -853,14 +845,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/1f6721d8-6f5b-42db-a08c-c4817fb0f582/console_1.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="4" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_/SIG/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
@@ -879,55 +863,49 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/1f6721d8-6f5b-42db-a08c-c4817fb0f582/console_1.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="31">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="27" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_/SIG/edit.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="65" column="18" selection-start-line="65" selection-start-column="18" selection-end-line="65" selection-end-column="18" />
+        <state relative-caret-position="264">
+          <caret line="115" column="46" selection-start-line="115" selection-start-column="46" selection-end-line="115" selection-end-column="46" />
           <folding>
-            <element signature="e#2167#3337#0#PHP" expanded="false" />
-            <element signature="e#2242#3335#0#PHP" expanded="false" />
-            <element signature="e#2282#3130#0#PHP" expanded="false" />
-            <element signature="e#2336#2386#0#PHP" expanded="false" />
-            <element signature="e#2387#2445#0#PHP" expanded="false" />
-            <element signature="e#2446#2507#0#PHP" expanded="false" />
-            <element signature="e#2508#2560#0#PHP" expanded="false" />
-            <element signature="e#2561#2610#0#PHP" expanded="false" />
-            <element signature="e#2611#2663#0#PHP" expanded="false" />
-            <element signature="e#2664#2715#0#PHP" expanded="false" />
-            <element signature="e#2716#2786#0#PHP" expanded="false" />
-            <element signature="e#2787#2844#0#PHP" expanded="false" />
-            <element signature="e#2845#2905#0#PHP" expanded="false" />
-            <element signature="e#2906#2959#0#PHP" expanded="false" />
-            <element signature="e#2960#3010#0#PHP" expanded="false" />
-            <element signature="e#3011#3076#0#PHP" expanded="false" />
-            <element signature="e#3077#3130#0#PHP" expanded="false" />
-            <element signature="n#html#0;n#!!top" expanded="false" />
-            <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#script#4;n#head#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#4685#5340#0#HTML" expanded="false" />
-            <element signature="e#4762#5329#0#HTML" expanded="false" />
-            <element signature="e#4809#5314#0#HTML" expanded="false" />
-            <element signature="e#4928#5296#0#HTML" expanded="false" />
-            <element signature="e#5096#5274#0#HTML" expanded="false" />
-            <element signature="e#5148#5248#0#HTML" expanded="false" />
-            <element signature="n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="e#1995#3165#0#PHP" expanded="false" />
+            <element signature="e#2070#3163#0#PHP" expanded="false" />
+            <element signature="e#2110#2958#0#PHP" expanded="false" />
+            <element signature="e#2164#2214#0#PHP" expanded="false" />
+            <element signature="e#2215#2273#0#PHP" expanded="false" />
+            <element signature="e#2274#2335#0#PHP" expanded="false" />
+            <element signature="e#2336#2388#0#PHP" expanded="false" />
+            <element signature="e#2389#2438#0#PHP" expanded="false" />
+            <element signature="e#2439#2491#0#PHP" expanded="false" />
+            <element signature="e#2492#2543#0#PHP" expanded="false" />
+            <element signature="e#2544#2614#0#PHP" expanded="false" />
+            <element signature="e#2615#2672#0#PHP" expanded="false" />
+            <element signature="e#2673#2733#0#PHP" expanded="false" />
+            <element signature="e#2734#2787#0#PHP" expanded="false" />
+            <element signature="e#2788#2838#0#PHP" expanded="false" />
+            <element signature="e#2839#2904#0#PHP" expanded="false" />
+            <element signature="e#2905#2958#0#PHP" expanded="false" />
             <element signature="n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#6203#6881#0#PHP" expanded="false" />
-            <element signature="e#6467#6867#0#PHP" expanded="false" />
-            <marker date="1475966974790" expanded="false" signature="655:676" ph="select * fro... logbook" />
-            <marker date="1475966974790" expanded="false" signature="873:896" ph="select * fro... lightbook" />
-            <marker date="1475966974790" expanded="false" signature="1163:1372" ph="create table... lightsig" />
-            <marker date="1475966974790" expanded="false" signature="1500:1931" ph="create table... lightsig_not" />
-            <marker date="1475966974790" expanded="false" signature="2058:2080" ph="select * fro... lightsig" />
-            <marker date="1475966974790" expanded="false" signature="3139:3245" ph="insert into lightsig... " />
-            <marker date="1475966974790" expanded="false" signature="4223:4243" ph="select * fro... lights" />
-            <marker date="1475966974790" expanded="false" signature="4587:4609" ph="select * fro... lightsig" />
-            <marker date="1475966974790" expanded="false" signature="5815:5920" ph="..." />
-            <marker date="1475966974790" expanded="false" signature="5844:5920" ph="..." />
-            <marker date="1475966974790" expanded="false" signature="5919:5920" ph="..." />
-            <marker date="1475966974790" expanded="false" signature="6002:6040" ph="select * fro... lightsig_not" />
-            <marker date="1475966974790" expanded="false" signature="6558:6795" ph="..." />
+            <element signature="e#6297#6697#0#PHP" expanded="false" />
+            <marker date="1475967650346" expanded="false" signature="655:676" ph="select * fro... logbook" />
+            <marker date="1475967650346" expanded="false" signature="873:896" ph="select * fro... lightbook" />
+            <marker date="1475967650346" expanded="false" signature="1163:1372" ph="create table... lightsig" />
+            <marker date="1475967650346" expanded="false" signature="1500:1759" ph="create table... lightsig_not" />
+            <marker date="1475967650346" expanded="false" signature="1886:1908" ph="select * fro... lightsig" />
+            <marker date="1475967650346" expanded="false" signature="2967:3073" ph="insert into lightsig... " />
+            <marker date="1475967650346" expanded="false" signature="4051:4071" ph="select * fro... lights" />
+            <marker date="1475967650346" expanded="false" signature="4415:4437" ph="select * fro... lightsig" />
+            <marker date="1475967650346" expanded="true" signature="5830:5868" ph="select * fro... lightsig_not" />
+            <marker date="1475967650346" expanded="true" signature="5830:5875" ph="select * fro... lightsig_not" />
+            <marker date="1475967650346" expanded="true" signature="6388:6625" ph="..." />
           </folding>
         </state>
       </provider>
