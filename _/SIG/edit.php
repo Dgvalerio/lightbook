@@ -60,6 +60,7 @@ if ($test2 == 0 ) { print(" <script> alert('iuhuuuuuuu') </script> ");
 
 $vMat = isset ($_POST ["cMat"])? $_POST ["cMat"]:'';
 $vNot = isset ($_POST ["cNot"])? $_POST ["cNot"]:'';
+$nBim = isset ($_POST ["nBim"])? $_POST ["nBim"]:'';
 ?>
 <!DOCTYPE html>
 <html lang="pt-br">
@@ -115,11 +116,9 @@ $vNot = isset ($_POST ["cNot"])? $_POST ["cNot"]:'';
     </div>
 
     <div id="pn01" class="">
-
         <table class="table b-cl-12 text-md-left table-bordered" id="tab">
-
             <?php $vId = '-'; $i = 1;
-            $result = mysqli_query($link, "select * from lightsig_not;" ); if (!$result) {}
+            $result = mysqli_query($link, "select * from lightsig_not where bm = $nBim;" ); if (!$result) {}
 
             print (" <thead> <tr> <th>$vMat: $vNot</th> <th>Nota</th> <th>Peso</th> </tr> </thead> <tbody id='conf'> ");
 
@@ -131,20 +130,21 @@ $vNot = isset ($_POST ["cNot"])? $_POST ["cNot"]:'';
                     print ("
                     <tr class='no' id='nt$i'>
                         <th scope='row'> $i ª Nota </th>
-                        <td><input type='text' value='$nn[$i]'></td>
-                        <td><input type='text' value='$pp[$i]'></td>
+                        <td><input type='text' value='$nn[$i]' min='0'></td>
+                        <td><input type='text' value='$pp[$i]' min='0'></td>
                     </tr>
                     ");
                     $i += 1;
                 }
             }
-            
+
             print (" </tbody> ");
             ?>
         </table>
 
         <button class="btn btn-success btn-lg" id="numBtn"> Salvar </button>
     </div>
+
 </section>
 <?php include_once '../footer.php' ?>
 </body>

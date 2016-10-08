@@ -106,12 +106,12 @@ while ($confere = mysqli_fetch_assoc($result) ) {
     print ("
             <tr class='no'>
                 <th scope='row' class='$cF'>$confere[nome]</th>
-                <td class='$cB1' onclick=\"edit('$vId', '1º Bimestre')\">$nB1</td>
-                <td class='$cB2' onclick=\"edit('$vId', '2º Bimestre')\">$nB2</td>
+                <td class='$cB1' onclick=\"edit('$vId', '1º Bimestre', 1)\">$nB1</td>
+                <td class='$cB2' onclick=\"edit('$vId', '2º Bimestre', 2)\">$nB2</td>
                 <td class='$cS1'>  $nS1</td>
                 <td class='$cR1'>  $nR1</td>
-                <td class='$cB3' onclick=\"edit('$vId', '3º Bimestre')\">$nB3</td>
-                <td class='$cB4' onclick=\"edit('$vId', '4º Bimestre')\">$nB4</td>
+                <td class='$cB3' onclick=\"edit('$vId', '3º Bimestre', 3)\">$nB3</td>
+                <td class='$cB4' onclick=\"edit('$vId', '4º Bimestre', 4)\">$nB4</td>
                 <td class='$cS2'>  $nS2</td>
                 <td class='$cR2'>  $nR2</td>
                 <td class='$cF'>   $nSF</td>
@@ -125,6 +125,7 @@ while ($confere = mysqli_fetch_assoc($result) ) {
         <form class="collapse" id="nts" name="nts" action="edit.php" method="post">
             <input class="collapse" type="text" id="cMat" name="cMat" value="-">
             <input class="collapse" type="text" id="cNot" name="cNot" value="-">
+            <input class="collapse" type="text" id="nBim" name="nBim" value="-">
         </form>
 
         </tbody>
@@ -134,9 +135,10 @@ while ($confere = mysqli_fetch_assoc($result) ) {
 <?php include_once '../footer.php' ?>
 
 <script>
-    function edit(aa, bb) {
+    function edit(aa, bb, cc) {
         var cMat = $("#cMat"); cMat.val(aa);
         var cNot = $("#cNot"); cNot.val(bb);
+        var nBim = $("#nBim"); nBim.val(cc);
 
         document.nts.submit();
     }
