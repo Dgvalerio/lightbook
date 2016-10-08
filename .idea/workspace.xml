@@ -2,10 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="57e688eb-49db-47ab-a9ed-2693b62eab4c" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_/SIG/edit-1.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_/pgb/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_/pgb/mn.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources/1f6721d8-6f5b-42db-a08c-c4817fb0f582.xml" afterPath="$PROJECT_DIR$/.idea/dataSources/1f6721d8-6f5b-42db-a08c-c4817fb0f582.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/SIG/edit.php" afterPath="$PROJECT_DIR$/_/SIG/edit.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/index.php" afterPath="$PROJECT_DIR$/_/index.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/01.css" afterPath="$PROJECT_DIR$/css/01.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/js.js" afterPath="$PROJECT_DIR$/js/js.js" />
     </list>
     <ignored path="lightbook.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -39,8 +44,8 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_/SIG/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="80" column="28" selection-start-line="80" selection-start-column="28" selection-end-line="80" selection-end-column="28" />
+            <state relative-caret-position="-85">
+              <caret line="83" column="13" selection-start-line="83" selection-start-column="13" selection-end-line="83" selection-end-column="13" />
               <folding>
                 <marker date="1475873239655" expanded="true" signature="655:676" ph="select * fro... logbook" />
                 <marker date="1475873239655" expanded="true" signature="873:896" ph="select * fro... lightbook" />
@@ -58,42 +63,37 @@
       <file leaf-file-name="edit.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_/SIG/edit.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="358">
-              <caret line="76" column="4" selection-start-line="76" selection-start-column="4" selection-end-line="76" selection-end-column="4" />
+            <state relative-caret-position="116">
+              <caret line="122" column="0" selection-start-line="122" selection-start-column="0" selection-end-line="122" selection-end-column="0" />
               <folding>
-                <element signature="e#1617#2787#0#PHP" expanded="false" />
-                <element signature="n#div#1;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <marker date="1475941630312" expanded="true" signature="655:676" ph="select * fro... logbook" />
-                <marker date="1475941630312" expanded="true" signature="873:896" ph="select * fro... lightbook" />
-                <marker date="1475941630312" expanded="false" signature="1172:1381" ph="create table... lightsig" />
-                <marker date="1475941630312" expanded="true" signature="1508:1530" ph="select * fro... lightsig" />
-                <marker date="1475941630312" expanded="true" signature="2589:2695" ph="insert into lightsig... " />
-                <marker date="1475941630312" expanded="true" signature="3514:3534" ph="select * fro... lights" />
-                <marker date="1475941630312" expanded="true" signature="4676:4698" ph="select * fro... lightsig" />
-                <marker date="1475941630312" expanded="true" signature="4748:4849" ph="..." />
-                <marker date="1475941630312" expanded="true" signature="4757:4840" ph="..." />
-                <marker date="1475941630312" expanded="true" signature="4857:5033" ph="..." />
-                <marker date="1475941630312" expanded="true" signature="4877:5024" ph="..." />
+                <element signature="e#2167#3337#0#PHP" expanded="false" />
+                <marker date="1475965661390" expanded="true" signature="655:676" ph="select * fro... logbook" />
+                <marker date="1475965661390" expanded="true" signature="873:896" ph="select * fro... lightbook" />
+                <marker date="1475965661390" expanded="false" signature="1163:1372" ph="create table... lightsig" />
+                <marker date="1475965661390" expanded="true" signature="1500:1931" ph="create table... lightsig_not" />
+                <marker date="1475965661390" expanded="true" signature="2058:2080" ph="select * fro... lightsig" />
+                <marker date="1475965661390" expanded="true" signature="3139:3245" ph="insert into lightsig... " />
+                <marker date="1475965661390" expanded="true" signature="4170:4190" ph="select * fro... lights" />
+                <marker date="1475965661390" expanded="true" signature="4534:4556" ph="select * fro... lightsig" />
+                <marker date="1475965661390" expanded="true" signature="5762:5894" ph="..." />
+                <marker date="1475965661390" expanded="true" signature="5791:5894" ph="..." />
+                <marker date="1475965661390" expanded="true" signature="5867:5894" ph="..." />
+                <marker date="1475965661390" expanded="true" signature="5951:5977" ph="select * fro... lightsig_not" />
+                <marker date="1475965661390" expanded="true" signature="6028:6098" ph="..." />
+                <marker date="1475965661390" expanded="true" signature="6033:6089" ph="..." />
+                <marker date="1475965661390" expanded="true" signature="6116:6839" ph="..." />
+                <marker date="1475965661390" expanded="true" signature="6490:6603" ph="..." />
+                <marker date="1475965661390" expanded="true" signature="6490:6711" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="01.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/01.css">
+      <file leaf-file-name="console_1.sql" pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/1f6721d8-6f5b-42db-a08c-c4817fb0f582/console_1.sql">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="83" column="52" selection-start-line="83" selection-start-column="52" selection-end-line="83" selection-end-column="52" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="js.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/js.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+            <state relative-caret-position="34">
+              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -115,11 +115,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_/imp/alertify.js-0.3.11/example/index.html" />
-        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/1f6721d8-6f5b-42db-a08c-c4817fb0f582/console.sql" />
-        <option value="$PROJECT_DIR$/css/sig.css" />
         <option value="$PROJECT_DIR$/_/task/header.php" />
-        <option value="$PROJECT_DIR$/js/js.js" />
         <option value="$PROJECT_DIR$/HVS/index.php" />
         <option value="$PROJECT_DIR$/_/msc/index.php" />
         <option value="$PROJECT_DIR$/_/imp/cute-file-browser/index.html" />
@@ -153,7 +149,6 @@
         <option value="$PROJECT_DIR$/_/msc/file/files/styles.css" />
         <option value="$PROJECT_DIR$/_/msc/file/scan.php" />
         <option value="$PROJECT_DIR$/index.php" />
-        <option value="$PROJECT_DIR$/_/imp/index.php" />
         <option value="$PROJECT_DIR$/_/footer.php" />
         <option value="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/dist/css/bootstrap.css" />
         <option value="$PROJECT_DIR$/_/alt/index.php" />
@@ -163,8 +158,13 @@
         <option value="$PROJECT_DIR$/_/task/del.php" />
         <option value="$PROJECT_DIR$/_/task/index.php" />
         <option value="$PROJECT_DIR$/_/SIG/index.php" />
+        <option value="$PROJECT_DIR$/_/imp/pgb/index.php" />
+        <option value="$PROJECT_DIR$/_/imp/index.php" />
+        <option value="$PROJECT_DIR$/js/js.js" />
+        <option value="$PROJECT_DIR$/_/pgb/index.php" />
         <option value="$PROJECT_DIR$/_/index.php" />
         <option value="$PROJECT_DIR$/css/01.css" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/1f6721d8-6f5b-42db-a08c-c4817fb0f582/console_1.sql" />
         <option value="$PROJECT_DIR$/_/SIG/edit.php" />
       </list>
     </option>
@@ -227,34 +227,6 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lightbook" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lightbook" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lightbook" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lightbook" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="_" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -268,18 +240,19 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\xampp\htdocs\lightbook\_\msc" />
-      <recent name="C:\xampp\htdocs\lightbook\_\imp\dsmorse-gridster.js-3613220\demos\assets\css" />
-      <recent name="C:\xampp\htdocs\lightbook\_\imp\dsmorse-gridster.js-3613220" />
-      <recent name="C:\xampp\htdocs\lightbook\_\imp\0" />
-      <recent name="C:\xampp\htdocs\lightbook\_\imp\cute-file-browser\files" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\lightbook\_" />
       <recent name="C:\xampp\htdocs\lightbook\_\imp\cute-file-browser\files" />
       <recent name="C:\xampp\htdocs\lightbook\_\imp\cute-file-browser\assets" />
       <recent name="C:\xampp\htdocs\lightbook\_\wall" />
       <recent name="C:\xampp\htdocs\lightbook\_\01" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\lightbook\_\SIG" />
+      <recent name="C:\xampp\htdocs\lightbook\_\pgb" />
+      <recent name="C:\xampp\htdocs\lightbook\_\msc" />
+      <recent name="C:\xampp\htdocs\lightbook\_\imp\dsmorse-gridster.js-3613220\demos\assets\css" />
+      <recent name="C:\xampp\htdocs\lightbook\_\imp\dsmorse-gridster.js-3613220" />
     </key>
   </component>
   <component name="RunManager">
@@ -360,7 +333,7 @@
       <workItem from="1475766423906" duration="18926000" />
       <workItem from="1475803632741" duration="10554000" />
       <workItem from="1475888264627" duration="2659000" />
-      <workItem from="1475938678399" duration="2946000" />
+      <workItem from="1475938678399" duration="16184000" />
     </task>
     <task id="LOCAL-00001" summary="08:26">
       <created>1475753212206</created>
@@ -418,35 +391,42 @@
       <option name="project" value="LOCAL" />
       <updated>1475875209099</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="8 de Outubro de 2016&#10;12 Horas e 47 Minutos">
+      <created>1475941684986</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1475941684986</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="158341000" />
+    <option name="totallyTimeSpent" value="171579000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20726173" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32605043" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19062027" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3277311" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290469" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32764506" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3283237" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3277311" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -469,7 +449,8 @@
     <MESSAGE value="7 de Outubro de 2016&#10;16 Horas e 07 Minutos" />
     <MESSAGE value="7 de Outubro de 2016&#10;16 Horas e 20 Minutos" />
     <MESSAGE value="7 de Outubro de 2016&#10;18 Horas e 19 Minutos" />
-    <option name="LAST_COMMIT_MESSAGE" value="7 de Outubro de 2016&#10;18 Horas e 19 Minutos" />
+    <MESSAGE value="8 de Outubro de 2016&#10;12 Horas e 47 Minutos" />
+    <option name="LAST_COMMIT_MESSAGE" value="8 de Outubro de 2016&#10;12 Horas e 47 Minutos" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -478,41 +459,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/js/less-v2.7.1.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_/imp/dsmorse-gridster.js-3613220/demos/chaosWidget.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_/imp/dsmorse-gridster.js-3613220/demos/grid-from-serialize.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="62" selection-start-line="7" selection-start-column="62" selection-end-line="7" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_/imp/dsmorse-gridster.js-3613220/demos/expandable-widgets.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="62" selection-start-line="7" selection-start-column="62" selection-end-line="7" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_/imp/dsmorse-gridster.js-3613220/demos/jquery.gridster.demo2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="62" selection-start-line="8" selection-start-column="62" selection-end-line="8" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_/imp/dsmorse-gridster.js-3613220/demos/multiple-grids.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -704,13 +650,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_/imp/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="41" column="34" selection-start-line="41" selection-start-column="34" selection-end-line="41" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_/footer.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -802,30 +741,103 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_/pgb/mn.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_/imp/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="50" column="109" selection-start-line="50" selection-start-column="109" selection-end-line="50" selection-end-column="109" />
+          <folding>
+            <marker date="1475949290095" expanded="true" signature="612:633" ph="select * fro... logbook" />
+            <marker date="1475949290095" expanded="true" signature="835:858" ph="select * fro... lightbook" />
+            <marker date="1475949290095" expanded="true" signature="1778:1798" ph="select * fro... lights" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/js/js.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+        <state relative-caret-position="374">
+          <caret line="22" column="27" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_/pgb/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="79" column="0" selection-start-line="79" selection-start-column="0" selection-end-line="79" selection-end-column="0" />
+          <folding>
+            <element signature="e#1617#2787#0#PHP" expanded="false" />
+            <marker date="1475949461340" expanded="true" signature="655:676" ph="select * fro... logbook" />
+            <marker date="1475949461340" expanded="true" signature="873:896" ph="select * fro... lightbook" />
+            <marker date="1475949461340" expanded="true" signature="1172:1381" ph="create table... lightsig" />
+            <marker date="1475949461340" expanded="true" signature="1508:1530" ph="select * fro... lightsig" />
+            <marker date="1475949461340" expanded="true" signature="2589:2695" ph="insert into lightsig... " />
+            <marker date="1475949461340" expanded="true" signature="3620:3640" ph="select * fro... lights" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="40" column="23" selection-start-line="40" selection-start-column="23" selection-end-line="40" selection-end-column="23" />
+        <state relative-caret-position="306">
+          <caret line="36" column="91" selection-start-line="36" selection-start-column="91" selection-end-line="36" selection-end-column="91" />
           <folding>
-            <marker date="1475938960246" expanded="true" signature="612:633" ph="select * fro... logbook" />
-            <marker date="1475938960246" expanded="true" signature="835:858" ph="select * fro... lightbook" />
-            <marker date="1475938960246" expanded="true" signature="1763:1783" ph="select * fro... lights" />
+            <marker date="1475949705254" expanded="true" signature="612:633" ph="select * fro... logbook" />
+            <marker date="1475949705254" expanded="true" signature="835:858" ph="select * fro... lightbook" />
+            <marker date="1475949705254" expanded="true" signature="1763:1783" ph="select * fro... lights" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_/SIG/edit-1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1475952050713" expanded="true" signature="655:676" ph="select * fro... logbook" />
+            <marker date="1475952050713" expanded="true" signature="873:896" ph="select * fro... lightbook" />
+            <marker date="1475952050713" expanded="true" signature="1163:1372" ph="create table... lightsig" />
+            <marker date="1475952050713" expanded="true" signature="1500:1919" ph="create table... lightsig_not" />
+            <marker date="1475952050713" expanded="true" signature="2046:2068" ph="select * fro... lightsig" />
+            <marker date="1475952050713" expanded="true" signature="3127:3233" ph="insert into lightsig... " />
+            <marker date="1475952050713" expanded="true" signature="4158:4178" ph="select * fro... lights" />
+            <marker date="1475952050713" expanded="true" signature="4522:4544" ph="select * fro... lightsig" />
+            <marker date="1475952050713" expanded="true" signature="6190:6212" ph="select * fro... lightsig" />
+            <marker date="1475952050713" expanded="true" signature="6262:6364" ph="..." />
+            <marker date="1475952050713" expanded="true" signature="6271:6355" ph="..." />
+            <marker date="1475952050713" expanded="true" signature="6382:6562" ph="..." />
+            <marker date="1475952050713" expanded="true" signature="6402:6553" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cad.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+          <folding>
+            <marker date="1475754151043" expanded="true" signature="1005:1058" ph="select * fro... lightbook" />
+            <marker date="1475754151043" expanded="true" signature="1220:1298" ph="insert into lightbook... " />
+            <marker date="1475754151043" expanded="true" signature="1391:1530" ph="..." />
+            <marker date="1475754151043" expanded="true" signature="1429:1515" ph="..." />
+            <marker date="1475754151043" expanded="true" signature="1613:1720" ph="..." />
+            <marker date="1475754151043" expanded="true" signature="1643:1713" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_/SIG/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="80" column="28" selection-start-line="80" selection-start-column="28" selection-end-line="80" selection-end-column="28" />
+        <state relative-caret-position="-85">
+          <caret line="83" column="13" selection-start-line="83" selection-start-column="13" selection-end-line="83" selection-end-column="13" />
           <folding>
             <marker date="1475873239655" expanded="true" signature="655:676" ph="select * fro... logbook" />
             <marker date="1475873239655" expanded="true" signature="873:896" ph="select * fro... lightbook" />
@@ -841,30 +853,43 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/01.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="83" column="52" selection-start-line="83" selection-start-column="52" selection-end-line="83" selection-end-column="52" />
+        <state relative-caret-position="204">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/1f6721d8-6f5b-42db-a08c-c4817fb0f582/console_1.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="27" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_/SIG/edit.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="358">
-          <caret line="76" column="4" selection-start-line="76" selection-start-column="4" selection-end-line="76" selection-end-column="4" />
+        <state relative-caret-position="116">
+          <caret line="122" column="0" selection-start-line="122" selection-start-column="0" selection-end-line="122" selection-end-column="0" />
           <folding>
-            <element signature="e#1617#2787#0#PHP" expanded="false" />
-            <element signature="n#div#1;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <marker date="1475941630312" expanded="true" signature="655:676" ph="select * fro... logbook" />
-            <marker date="1475941630312" expanded="true" signature="873:896" ph="select * fro... lightbook" />
-            <marker date="1475941630312" expanded="false" signature="1172:1381" ph="create table... lightsig" />
-            <marker date="1475941630312" expanded="true" signature="1508:1530" ph="select * fro... lightsig" />
-            <marker date="1475941630312" expanded="true" signature="2589:2695" ph="insert into lightsig... " />
-            <marker date="1475941630312" expanded="true" signature="3514:3534" ph="select * fro... lights" />
-            <marker date="1475941630312" expanded="true" signature="4676:4698" ph="select * fro... lightsig" />
-            <marker date="1475941630312" expanded="true" signature="4748:4849" ph="..." />
-            <marker date="1475941630312" expanded="true" signature="4757:4840" ph="..." />
-            <marker date="1475941630312" expanded="true" signature="4857:5033" ph="..." />
-            <marker date="1475941630312" expanded="true" signature="4877:5024" ph="..." />
+            <element signature="e#2167#3337#0#PHP" expanded="false" />
+            <marker date="1475965661390" expanded="true" signature="655:676" ph="select * fro... logbook" />
+            <marker date="1475965661390" expanded="true" signature="873:896" ph="select * fro... lightbook" />
+            <marker date="1475965661390" expanded="false" signature="1163:1372" ph="create table... lightsig" />
+            <marker date="1475965661390" expanded="true" signature="1500:1931" ph="create table... lightsig_not" />
+            <marker date="1475965661390" expanded="true" signature="2058:2080" ph="select * fro... lightsig" />
+            <marker date="1475965661390" expanded="true" signature="3139:3245" ph="insert into lightsig... " />
+            <marker date="1475965661390" expanded="true" signature="4170:4190" ph="select * fro... lights" />
+            <marker date="1475965661390" expanded="true" signature="4534:4556" ph="select * fro... lightsig" />
+            <marker date="1475965661390" expanded="true" signature="5762:5894" ph="..." />
+            <marker date="1475965661390" expanded="true" signature="5791:5894" ph="..." />
+            <marker date="1475965661390" expanded="true" signature="5867:5894" ph="..." />
+            <marker date="1475965661390" expanded="true" signature="5951:5977" ph="select * fro... lightsig_not" />
+            <marker date="1475965661390" expanded="true" signature="6028:6098" ph="..." />
+            <marker date="1475965661390" expanded="true" signature="6033:6089" ph="..." />
+            <marker date="1475965661390" expanded="true" signature="6116:6839" ph="..." />
+            <marker date="1475965661390" expanded="true" signature="6490:6603" ph="..." />
+            <marker date="1475965661390" expanded="true" signature="6490:6711" ph="..." />
           </folding>
         </state>
       </provider>

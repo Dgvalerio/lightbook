@@ -20,6 +20,7 @@ function toLocal(loc) {
         case 6: page = "SIG/index.php";   break;
         case 7: page = "task/index.php";   break;
         case 8: page = "msc/index.php";   break;
+        case 9: page = "pgb/index.php";   break;
         case 11: page = "../ext.php";   break;
         case 12: page = "../index.php";   break;
     }

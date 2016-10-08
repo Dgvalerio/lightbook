@@ -79,18 +79,18 @@ body {
 .bd-all-rbl { border: 1px solid rgba(0,0,0,.2); border-radius: 0 0 0.25rem 0.25rem; }
 
 .b-cl-12 { background-color: rgba(255,255,255,.9) !important; }
-.b-cl-11 { background-color: rgba(255,255,255,.8); }
-.b-cl-10 { background-color: rgba(250,250,250,.7); }
-.b-cl-09 { background-color: rgba(225,225,225,.7); }
-.b-cl-08 { background-color: rgba(200,200,200,.7); }
-.b-cl-07 { background-color: rgba(175,175,175,.7); }
-.b-cl-06 { background-color: rgba(150,150,150,.7); }
-.b-cl-05 { background-color: rgba(125,125,125,.7); }
-.b-cl-04 { background-color: rgba(100,100,100,.7); }
-.b-cl-03 { background-color: rgba(075,075,075,.7); }
-.b-cl-02 { background-color: rgba(050,050,050,.7); }
-.b-cl-01 { background-color: rgba(025,025,025,.7); }
-.b-cl-00 { background-color: rgba(000,000,000,.7); }
+.b-cl-11 { background-color: rgba(255,255,255,.8) !important; }
+.b-cl-10 { background-color: rgba(250,250,250,.7) !important; }
+.b-cl-09 { background-color: rgba(225,225,225,.7) !important; }
+.b-cl-08 { background-color: rgba(200,200,200,.7) !important; }
+.b-cl-07 { background-color: rgba(175,175,175,.7) !important; }
+.b-cl-06 { background-color: rgba(150,150,150,.7) !important; }
+.b-cl-05 { background-color: rgba(125,125,125,.7) !important; }
+.b-cl-04 { background-color: rgba(100,100,100,.7) !important; }
+.b-cl-03 { background-color: rgba(075,075,075,.7) !important; }
+.b-cl-02 { background-color: rgba(050,050,050,.7) !important; }
+.b-cl-01 { background-color: rgba(025,025,025,.7) !important; }
+.b-cl-00 { background-color: rgba(000,000,000,.7) !important; }
 
 /* - - - - - - - - - - C - - - - - - - - - - */
 

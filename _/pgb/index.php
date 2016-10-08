@@ -6,7 +6,7 @@ $result = mysqli_query($link, "select * from logbook;" ); if (!$result) {} while
 $result = mysqli_query($link, "select * from lightbook;" ); if (!$result) {} while ($confere = mysqli_fetch_assoc($result) ) { if ($confere['id'] == $usuario) { $usuario = $confere['usuario']; break; } }
 if ($test1 == 0){ print("<script> location.href = '../../index.php'; </script>"); }
 
-/* Criação da Tabela */ $sql = 'create table if not exists lightsig ( 
+/* Criação da Tabela Usuários */ $sql = 'create table if not exists lightsig ( 
   id int not null auto_increment, 
   iduser int not null, 
   nome varchar(40), 
@@ -14,25 +14,6 @@ if ($test1 == 0){ print("<script> location.href = '../../index.php'; </script>")
   b2 float,
   b3 float,
   b4 float,
-  primary key(id)
-) default charset = utf8;'; if (mysqli_query($link, $sql)) { } else { echo 'Erro: ' . mysqli_connect_error() . "\n"; }
-
-/* Criação da Tabela */ $sql = 'create table if not exists lightsig_not ( 
-  id int not null auto_increment, 
-  iduser int not null, 
-  nome varchar(40), 
-  n1 float,   p1 float,
-  n2 float,   p2 float,
-  n3 float,   p3 float,
-  n4 float,   p4 float,
-  n5 float,   p5 float,   
-  n6 float,   p6 float,
-  n7 float,   p7 float,
-  n8 float,   p8 float,
-  n9 float,   p9 float,
-  n10 float,  p10 float,
-  mb float,
-  bm int,
   primary key(id)
 ) default charset = utf8;'; if (mysqli_query($link, $sql)) { } else { echo 'Erro: ' . mysqli_connect_error() . "\n"; }
 
@@ -80,71 +61,24 @@ $vNot = isset ($_POST ["cNot"])? $_POST ["cNot"]:'';
     print("<style> body { background-image: url('../../img/$walp'); } </style>"); ?>
 
     <script src="../../js/alert/js.js"></script>
-    <?php $vId = '-';
-    $result = mysqli_query($link, "select * from lightsig;" ); if (!$result) {}?>
-    <script>
-        $(document).ready(function () { $("#pn00").collapse('show');
-            $("#numBtn").click(function (evt) { evt.preventDefault();
-                $.ajax({
-                    beforeSend: function() { $("#pn00").collapse('hide'); },
-                    success: function() { $("#pn01").collapse('show');
-                        var a, c;
-                        var nl = $("#numNot").val();
 
-                        for (c = 1; c <= 3; c++) {
-                            if (c > nl && c <= 3) {
-                                $("#nt"+c).css({'display': 'none'});
-                            }
-                        }
-                    }
-                })
-            })
+    <script>
+        var i;
+        function onPrg() {i = 0; setInterval('prg()',5); } function prg() { if (i < 100) { i += 0.2; $('#onLoad').val(i); } }
+
+
+        $(document).ready(function () {
+            onPrg()
         });
     </script>
 
 </head>
 <body class="container text-md-center"> <br/>
-<header> <h1> LightBook </h1> <h2>Projeto: MySIG</h2> <br/> <?php include_once'mn.php' ?> </header>
+<header> <h1> LightBook </h1> <h2>Projeto: Progress</h2> <br/> <?php include_once'mn.php' ?> </header>
 <section>
 
-    <div class="p-a-1 collapse" id="pn00">
-        <h1><label for="numNot">Quantas notas essa matéria terá?</label></h1>
-        <input class="form-control" id="numNot" type="number" value="1" max="3"> <br/>
+    <div class="p-a-1 card b-cl-12" id="pnLoad"> <progress id="onLoad" class="progress progress-striped progress-animated m-a-0" value="0" max="100"></progress> </div>
 
-        <button class="btn btn-success btn-lg" id="numBtn"> Ok </button>
-    </div>
-
-    <div id="pn01" class="">
-
-        <table class="table b-cl-12 text-md-left table-bordered" id="tab">
-
-            <?php $vId = '-'; $i = 1;
-            $result = mysqli_query($link, "select * from lightsig_not;" ); if (!$result) {}
-
-            print (" <thead> <tr> <th>$vMat: $vNot</th> <th>Nota</th> <th>Peso</th> </tr> </thead> <tbody id='conf'> ");
-
-            while ($confere = mysqli_fetch_assoc($result) ) {
-                $nn[1] = $confere['n1']; $pp[1] = $confere['p1'];
-                $nn[2] = $confere['n2']; $pp[2] = $confere['p2'];
-                $nn[3] = $confere['n3']; $pp[3] = $confere['p3'];
-                while ($i <= 3) {
-                    print ("
-                    <tr class='no' id='nt$i'>
-                        <th scope='row'> $i ª Nota </th>
-                        <td><input type='text' value='$nn[$i]'></td>
-                        <td><input type='text' value='$pp[$i]'></td>
-                    </tr>
-                    ");
-                    $i += 1;
-                }
-            }
-            
-            print (" </tbody> ");
-            ?>
-        </table>
-
-        <button class="btn btn-success btn-lg" id="numBtn"> Salvar </button>
-    </div>
 </section>
 <?php include_once '../footer.php' ?>
 </body>

@@ -31,7 +31,6 @@ if ($test1 == 0){ print("<script> location.href = '../../index.php'; </script>")
   n8 float,   p8 float,
   n9 float,   p9 float,
   n10 float,  p10 float,
-  mb float,
   bm int,
   primary key(id)
 ) default charset = utf8;'; if (mysqli_query($link, $sql)) { } else { echo 'Erro: ' . mysqli_connect_error() . "\n"; }
@@ -91,11 +90,15 @@ $vNot = isset ($_POST ["cNot"])? $_POST ["cNot"]:'';
                         var a, c;
                         var nl = $("#numNot").val();
 
-                        for (c = 1; c <= 3; c++) {
-                            if (c > nl && c <= 3) {
-                                $("#nt"+c).css({'display': 'none'});
-                            }
+                        for (c = 1; c <= nl; c++) {
+                            a += "<tr class='no'>" +
+                                "<th scope='row'> "+c+"ª Nota </th>" +
+                                "<td><input type='text' value='<?php print("$vMat") ?>'></td>" +
+                                "<td><input type='text' value='<?php print("$vNot") ?>'></td>" +
+                            "</tr>";
                         }
+
+                        $("#conf").html(a);
                     }
                 })
             })
@@ -109,41 +112,36 @@ $vNot = isset ($_POST ["cNot"])? $_POST ["cNot"]:'';
 
     <div class="p-a-1 collapse" id="pn00">
         <h1><label for="numNot">Quantas notas essa matéria terá?</label></h1>
-        <input class="form-control" id="numNot" type="number" value="1" max="3"> <br/>
+        <input class="form-control" id="numNot" type="number" value="1" max="14"> <br/>
 
         <button class="btn btn-success btn-lg" id="numBtn"> Ok </button>
     </div>
 
-    <div id="pn01" class="">
+    <div id="pn01" class="collapse">
 
         <table class="table b-cl-12 text-md-left table-bordered" id="tab">
 
-            <?php $vId = '-'; $i = 1;
-            $result = mysqli_query($link, "select * from lightsig_not;" ); if (!$result) {}
-
-            print (" <thead> <tr> <th>$vMat: $vNot</th> <th>Nota</th> <th>Peso</th> </tr> </thead> <tbody id='conf'> ");
-
-            while ($confere = mysqli_fetch_assoc($result) ) {
-                $nn[1] = $confere['n1']; $pp[1] = $confere['p1'];
-                $nn[2] = $confere['n2']; $pp[2] = $confere['p2'];
-                $nn[3] = $confere['n3']; $pp[3] = $confere['p3'];
-                while ($i <= 3) {
-                    print ("
-                    <tr class='no' id='nt$i'>
-                        <th scope='row'> $i ª Nota </th>
-                        <td><input type='text' value='$nn[$i]'></td>
-                        <td><input type='text' value='$pp[$i]'></td>
-                    </tr>
-                    ");
-                    $i += 1;
-                }
-            }
-            
-            print (" </tbody> ");
+            <?php $vId = '-';
+            $result = mysqli_query($link, "select * from lightsig;" ); if (!$result) {}
+            print ("
+<thead>
+    <tr>
+        <th>$vMat: $vNot</th>
+        <th>Nota</th>
+        <th>Peso</th>
+    </tr>
+</thead>
+<tbody id='conf'>
+    <tr class='no'>
+        <th scope='row'> 1ª Nota </th>
+        <td><input type='text' value='$vMat'></td>
+        <td><input type='text' value='$vNot'></td>
+    </tr>
+</tbody>
+");
             ?>
-        </table>
 
-        <button class="btn btn-success btn-lg" id="numBtn"> Salvar </button>
+        </table>
     </div>
 </section>
 <?php include_once '../footer.php' ?>

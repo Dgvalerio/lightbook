@@ -34,6 +34,8 @@ if ($test1 == 0){ print("<script> location.href = '../index.php'; </script>"); }
         <button class="labPer btn btn-primary btn-lg bd-top"    onclick="toLocal(4)"> (+) Projeto: Alerta!  </button>
         <button class="labPer btn btn-primary btn-lg bd-top"    onclick="toLocal(6)"> (-) Projeto: MySIG    </button>
         <button class="labPer btn btn-primary btn-lg bd-top"    onclick="toLocal(7)"> (+) Projeto: OkTasks  </button>
+        <button class="labPer btn btn-primary btn-lg bd-top"    onclick="toLocal(9)"> (!)(-) Projeto: Progress  </button>
+
         <p><?php ?></p>
     </div>
 </section>
