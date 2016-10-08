@@ -40,7 +40,7 @@ if ($test1 == 0){ print("<script> location.href = '../index.php'; </script>"); }
 <div>
     <p> <b> ! </b>: Parado. </p>
     <p> <b> + </b>: Em bom estado. </p>
-    <p> <b> - </b>: Em estado ruim. </p>
+    <p> <b> - </b>: Em mau estado. </p>
 </div>
 <?php include_once 'footer.php' ?>
 </body>

@@ -60,21 +60,32 @@ if ($test2 == 0 ) { print(" <script> alert('iuhuuuuuuu') </script> ");
 
     <script src="../../js/alert/js.js"></script>
 
+    <script>
+        var i = 0;
+        function onPrg() {i = 0; setInterval('prg()',5); } function prg() { if (i < 100) { i += 0.2; $('#onLoad').val(i); } }
+    </script>
+
 </head>
 <body class="container text-md-center"> <br/>
 <header> <h1> LightBook </h1> <h2>Projeto: MySIG</h2> <br/> <?php include_once'mn.php' ?> </header>
 <section>
 
-    <?php
+    <div class="p-a-1 card" id="pn00">
+        <h1><label>Quantas notas essa matéria terá?</label></h1>
+        <input class="form-control" id="numNot" type="number" value="1" max="14"> <br/>
+    </div>
+
+    <div id="pn01">
+        <?php
         $vMat = isset ($_POST ["cMat"])? $_POST ["cMat"]:'';
         $vNot = isset ($_POST ["cNot"])? $_POST ["cNot"]:'';
-    ?>
+        ?>
 
-    <table class="table b-cl-12 text-md-left table-bordered">
+        <table class="table b-cl-12 text-md-left table-bordered">
 
-        <?php $vId = '-';
-        $result = mysqli_query($link, "select * from lightsig;" ); if (!$result) {}
-print ("
+            <?php $vId = '-';
+            $result = mysqli_query($link, "select * from lightsig;" ); if (!$result) {}
+            print ("
 <thead>
     <tr>
         <th>$vMat</th>
@@ -90,9 +101,13 @@ print ("
     </tr>
 </tbody>
 ");
-        ?>
+            ?>
 
-    </table>
+        </table>
+    </div>
+
+    <div class="p-a-1 card b-cl-12" id="pnLoad"> <progress id="onLoad" class="progress progress-striped progress-animated m-a-0" value="0" max="100"></progress> </div>
+
 
 </section>
 <?php include_once '../footer.php' ?>

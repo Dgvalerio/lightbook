@@ -78,7 +78,7 @@ body {
 .bd-top { border-top: 1px solid rgba(0,0,0,.2); }
 .bd-all-rbl { border: 1px solid rgba(0,0,0,.2); border-radius: 0 0 0.25rem 0.25rem; }
 
-.b-cl-12 { background-color: rgba(255,255,255,.9); }
+.b-cl-12 { background-color: rgba(255,255,255,.9) !important; }
 .b-cl-11 { background-color: rgba(255,255,255,.8); }
 .b-cl-10 { background-color: rgba(250,250,250,.7); }
 .b-cl-09 { background-color: rgba(225,225,225,.7); }
