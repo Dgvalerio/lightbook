@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="57e688eb-49db-47ab-a9ed-2693b62eab4c" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HVS/index.php" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_/index-1.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/index.php" afterPath="$PROJECT_DIR$/_/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/mn.php" afterPath="$PROJECT_DIR$/_/mn.php" />
     </list>
     <ignored path="lightbook.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -37,12 +39,73 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="36" column="91" selection-start-line="36" selection-start-column="91" selection-end-line="36" selection-end-column="91" />
+            <state relative-caret-position="374">
+              <caret line="72" column="21" selection-start-line="72" selection-start-column="21" selection-end-line="72" selection-end-column="21" />
+              <folding>
+                <element signature="n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#2;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#3;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <marker date="1475980529988" expanded="true" signature="612:633" ph="select * fro... logbook" />
+                <marker date="1475980529988" expanded="true" signature="835:858" ph="select * fro... lightbook" />
+                <marker date="1475980529988" expanded="true" signature="1856:1876" ph="select * fro... lights" />
+                <marker date="1475980529988" expanded="true" signature="2162:2248" ph="..." />
+                <marker date="1475980529988" expanded="true" signature="2279:2925" ph="..." />
+                <marker date="1475980529988" expanded="true" signature="2279:5651" ph="..." />
+                <marker date="1475980529988" expanded="false" signature="2946:3754" ph="..." />
+                <marker date="1475980529988" expanded="true" signature="2979:3095" ph="..." />
+                <marker date="1475980529988" expanded="true" signature="3144:3498" ph="..." />
+                <marker date="1475980529988" expanded="true" signature="3531:3743" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_/imp/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" column="44" selection-start-line="22" selection-start-column="44" selection-end-line="22" selection-end-column="44" />
+              <folding>
+                <marker date="1475949290095" expanded="true" signature="612:633" ph="select * fro... logbook" />
+                <marker date="1475949290095" expanded="true" signature="835:858" ph="select * fro... lightbook" />
+                <marker date="1475949290095" expanded="true" signature="1778:1798" ph="select * fro... lights" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index-1.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_/index-1.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
               <folding>
                 <marker date="1475949705254" expanded="true" signature="612:633" ph="select * fro... logbook" />
                 <marker date="1475949705254" expanded="true" signature="835:858" ph="select * fro... lightbook" />
                 <marker date="1475949705254" expanded="true" signature="1763:1783" ph="select * fro... lights" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="js.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/js.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="244">
+              <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="01.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_/wall/01.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="303">
+              <caret line="21" column="46" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="46" />
+              <folding>
+                <marker date="1475754136832" expanded="true" signature="582:782" ph="..." />
+                <marker date="1475754136832" expanded="true" signature="615:683" ph="..." />
               </folding>
             </state>
           </provider>
@@ -64,7 +127,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_/task/header.php" />
         <option value="$PROJECT_DIR$/HVS/index.php" />
         <option value="$PROJECT_DIR$/_/msc/index.php" />
         <option value="$PROJECT_DIR$/_/imp/cute-file-browser/index.html" />
@@ -110,11 +172,12 @@
         <option value="$PROJECT_DIR$/_/imp/index.php" />
         <option value="$PROJECT_DIR$/js/js.js" />
         <option value="$PROJECT_DIR$/_/pgb/index.php" />
-        <option value="$PROJECT_DIR$/_/index.php" />
         <option value="$PROJECT_DIR$/css/01.css" />
         <option value="$PROJECT_DIR$/_/SIG/index.php" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/1f6721d8-6f5b-42db-a08c-c4817fb0f582/console_1.sql" />
         <option value="$PROJECT_DIR$/_/SIG/edit.php" />
+        <option value="$PROJECT_DIR$/_/mn.php" />
+        <option value="$PROJECT_DIR$/_/index.php" />
       </list>
     </option>
   </component>
@@ -186,7 +249,39 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lightbook" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lightbook" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="_" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lightbook" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lightbook" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="imp" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -211,11 +306,11 @@
       <recent name="C:\xampp\htdocs\lightbook\_\01" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\lightbook\_" />
       <recent name="C:\xampp\htdocs\lightbook\_\SIG" />
       <recent name="C:\xampp\htdocs\lightbook\_\pgb" />
       <recent name="C:\xampp\htdocs\lightbook\_\msc" />
       <recent name="C:\xampp\htdocs\lightbook\_\imp\dsmorse-gridster.js-3613220\demos\assets\css" />
-      <recent name="C:\xampp\htdocs\lightbook\_\imp\dsmorse-gridster.js-3613220" />
     </key>
   </component>
   <component name="RunManager">
@@ -296,7 +391,7 @@
       <workItem from="1475766423906" duration="18926000" />
       <workItem from="1475803632741" duration="10554000" />
       <workItem from="1475888264627" duration="2659000" />
-      <workItem from="1475938678399" duration="19367000" />
+      <workItem from="1475938678399" duration="24016000" />
     </task>
     <task id="LOCAL-00001" summary="08:26">
       <created>1475753212206</created>
@@ -382,11 +477,18 @@
       <option name="project" value="LOCAL" />
       <updated>1475967731583</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="8 de Outubro de 2016&#10;21 Horas e 30 Minutos">
+      <created>1475973013670</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1475973013670</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="174762000" />
+    <option name="totallyTimeSpent" value="179411000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -436,7 +538,8 @@
     <MESSAGE value="8 de Outubro de 2016&#10;12 Horas e 47 Minutos" />
     <MESSAGE value="8 de Outubro de 2016&#10;19 Horas e 50 Minutos" />
     <MESSAGE value="8 de Outubro de 2016&#10;20 Horas e 02 Minutos" />
-    <option name="LAST_COMMIT_MESSAGE" value="8 de Outubro de 2016&#10;20 Horas e 02 Minutos" />
+    <MESSAGE value="8 de Outubro de 2016&#10;21 Horas e 30 Minutos" />
+    <option name="LAST_COMMIT_MESSAGE" value="8 de Outubro de 2016&#10;21 Horas e 30 Minutos" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -445,34 +548,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_/imp/dsmorse-gridster.js-3613220/demos/multiple-grids.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="62" selection-start-line="7" selection-start-column="62" selection-end-line="7" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_/imp/dsmorse-gridster.js-3613220/demos/responsive.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="62" selection-start-line="8" selection-start-column="62" selection-end-line="8" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_/imp/dsmorse-gridster.js-3613220/demos/resize-limits.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="62" selection-start-line="7" selection-start-column="62" selection-end-line="7" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_/imp/dsmorse-gridster.js-3613220/demos/resize.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="62" selection-start-line="7" selection-start-column="62" selection-end-line="7" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_/imp/dsmorse-gridster.js-3613220/demos/SwapDrop.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -735,26 +810,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_/imp/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="50" column="109" selection-start-line="50" selection-start-column="109" selection-end-line="50" selection-end-column="109" />
-          <folding>
-            <marker date="1475949290095" expanded="true" signature="612:633" ph="select * fro... logbook" />
-            <marker date="1475949290095" expanded="true" signature="835:858" ph="select * fro... lightbook" />
-            <marker date="1475949290095" expanded="true" signature="1778:1798" ph="select * fro... lights" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/js.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="27" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_/pgb/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -881,14 +936,83 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_/index.php">
+    <entry file="file://$PROJECT_DIR$/_/wall/mn.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="36" column="91" selection-start-line="36" selection-start-column="91" selection-end-line="36" selection-end-column="91" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_/mn.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_/wall/01.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="21" column="46" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="46" />
+          <folding>
+            <marker date="1475754136832" expanded="true" signature="582:782" ph="..." />
+            <marker date="1475754136832" expanded="true" signature="615:683" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_/index-1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
           <folding>
             <marker date="1475949705254" expanded="true" signature="612:633" ph="select * fro... logbook" />
             <marker date="1475949705254" expanded="true" signature="835:858" ph="select * fro... lightbook" />
             <marker date="1475949705254" expanded="true" signature="1763:1783" ph="select * fro... lights" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_/imp/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="44" selection-start-line="22" selection-start-column="44" selection-end-line="22" selection-end-column="44" />
+          <folding>
+            <marker date="1475949290095" expanded="true" signature="612:633" ph="select * fro... logbook" />
+            <marker date="1475949290095" expanded="true" signature="835:858" ph="select * fro... lightbook" />
+            <marker date="1475949290095" expanded="true" signature="1778:1798" ph="select * fro... lights" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/js.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="72" column="21" selection-start-line="72" selection-start-column="21" selection-end-line="72" selection-end-column="21" />
+          <folding>
+            <element signature="n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <marker date="1475980529988" expanded="true" signature="612:633" ph="select * fro... logbook" />
+            <marker date="1475980529988" expanded="true" signature="835:858" ph="select * fro... lightbook" />
+            <marker date="1475980529988" expanded="true" signature="1856:1876" ph="select * fro... lights" />
+            <marker date="1475980529988" expanded="true" signature="2162:2248" ph="..." />
+            <marker date="1475980529988" expanded="true" signature="2279:2925" ph="..." />
+            <marker date="1475980529988" expanded="true" signature="2279:5651" ph="..." />
+            <marker date="1475980529988" expanded="false" signature="2946:3754" ph="..." />
+            <marker date="1475980529988" expanded="true" signature="2979:3095" ph="..." />
+            <marker date="1475980529988" expanded="true" signature="3144:3498" ph="..." />
+            <marker date="1475980529988" expanded="true" signature="3531:3743" ph="..." />
           </folding>
         </state>
       </provider>

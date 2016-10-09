@@ -5,6 +5,6 @@
 </div>
 <div class="btnMenu" onclick="displaymenu()">
     <button class="navbar-toggler m-a-p" type="button" data-toggle="collapse" data-target="#navbar-header">
-        &#9776;
+        <span class="glyphicon glyphicon-cog" aria-hidden="true"></span>
     </button>
 </div>
