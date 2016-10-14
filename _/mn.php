@@ -1,5 +1,6 @@
 <div class="floatMenu collapse">
     <div class="btn-group-vertical" role="group">
+        <button class="labPer btn btn-primary btn-lg btn-block" onclick="cllps()"> Trocar de Interface </button>
         <button class="labPer btn btn-primary btn-lg btn-block" onclick="toLocal(1)"> Logout </button>
     </div>
 </div>
