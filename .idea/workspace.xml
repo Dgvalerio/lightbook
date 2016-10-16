@@ -2,17 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="57e688eb-49db-47ab-a9ed-2693b62eab4c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_/i.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_/ii.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_/index-2.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/--.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/02.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/imp/jquery.avgrund.js-master/example/index.html" afterPath="$PROJECT_DIR$/_/imp/jquery.avgrund.js-master/example/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/index.php" afterPath="$PROJECT_DIR$/_/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/mn.php" afterPath="$PROJECT_DIR$/_/mn.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bootstrap-3.3.7/dist/css/bootstrap.css" afterPath="$PROJECT_DIR$/bootstrap-3.3.7/dist/css/bootstrap.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/dist/css/bootstrap.css" afterPath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/dist/css/bootstrap.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/01.css" afterPath="$PROJECT_DIR$/css/01.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/js.js" afterPath="$PROJECT_DIR$/js/js.js" />
     </list>
     <ignored path="lightbook.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -43,49 +37,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="120" column="76" selection-start-line="120" selection-start-column="76" selection-end-line="120" selection-end-column="76" />
+            <state relative-caret-position="391">
+              <caret line="23" column="58" selection-start-line="23" selection-start-column="58" selection-end-line="23" selection-end-column="58" />
               <folding>
-                <marker date="1476405240691" expanded="false" signature="612:633" ph="select * fro... logbook" />
-                <marker date="1476405240691" expanded="false" signature="835:858" ph="select * fro... lightbook" />
-                <marker date="1476405240691" expanded="false" signature="2176:2196" ph="select * fro... lights" />
-                <marker date="1476405240691" expanded="true" signature="2951:9483" ph="..." />
+                <marker date="1476471832380" expanded="false" signature="612:633" ph="select * fro... logbook" />
+                <marker date="1476471832380" expanded="false" signature="835:858" ph="select * fro... lightbook" />
+                <marker date="1476471832380" expanded="false" signature="2176:2196" ph="select * fro... lights" />
+                <marker date="1476471832380" expanded="true" signature="2951:9462" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mn.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_/mn.php">
+      <file leaf-file-name="02.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/02.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="102" selection-start-line="2" selection-start-column="102" selection-end-line="2" selection-end-column="102" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="01.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/01.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1003">
-              <caret line="125" column="21" selection-start-line="125" selection-start-column="21" selection-end-line="125" selection-end-column="21" />
+            <state relative-caret-position="66">
+              <caret line="131" column="44" selection-start-line="131" selection-start-column="44" selection-end-line="131" selection-end-column="44" />
               <folding>
                 <element signature="e#21#198#0" expanded="false" />
                 <element signature="e#253#355#0" expanded="false" />
                 <element signature="e#367#414#0" expanded="false" />
-                <element signature="e#569#1243#0" expanded="false" />
-                <element signature="e#1260#1427#0" expanded="false" />
-                <element signature="e#1445#1753#0" expanded="false" />
-                <element signature="e#2885#3207#0" expanded="false" />
-                <element signature="e#3857#4422#0" expanded="false" />
-                <element signature="e#4431#4612#0" expanded="false" />
-                <element signature="e#4620#4891#0" expanded="false" />
-                <element signature="e#5013#5105#0" expanded="false" />
-                <element signature="e#5115#5221#0" expanded="false" />
+                <element signature="e#470#576#0" expanded="false" />
+                <element signature="e#587#1261#0" expanded="false" />
+                <element signature="e#1278#1445#0" expanded="false" />
+                <element signature="e#1463#1771#0" expanded="false" />
+                <element signature="e#2903#3225#0" expanded="false" />
+                <element signature="e#3708#3772#0" expanded="false" />
+                <element signature="e#3907#4472#0" expanded="false" />
+                <element signature="e#4481#4662#0" expanded="false" />
+                <element signature="e#4670#4941#0" expanded="false" />
+                <element signature="e#5063#5155#0" expanded="false" />
+                <element signature="e#5165#5271#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -127,8 +113,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_/imp/0/QUnit/qunit-2.0.1.css" />
-        <option value="$PROJECT_DIR$/_/imp/0/QUnit/qunit-2.0.1.js" />
         <option value="$PROJECT_DIR$/_/imp/gridster.js/test/jquery.gridder.html" />
         <option value="$PROJECT_DIR$/_/imp/dsmorse-gridster.js-3613220/test/jquery.gridster.html" />
         <option value="$PROJECT_DIR$/_/imp/dsmorse-gridster.js-3613220/demos/assets/css/demo.css" />
@@ -176,8 +160,10 @@
         <option value="$PROJECT_DIR$/_/ii.php" />
         <option value="$PROJECT_DIR$/_/mn.php" />
         <option value="$PROJECT_DIR$/js/js.js" />
+        <option value="$PROJECT_DIR$/css/--.css" />
         <option value="$PROJECT_DIR$/css/01.css" />
         <option value="$PROJECT_DIR$/_/index.php" />
+        <option value="$PROJECT_DIR$/css/02.css" />
       </list>
     </option>
   </component>
@@ -219,11 +205,42 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="ProjectPane">
-        <subPane />
-      </pane>
       <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lightbook" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lightbook" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lightbook" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lightbook" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lightbook" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -235,19 +252,19 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\xampp\htdocs\lightbook\_" />
-      <recent name="C:\xampp\htdocs\lightbook\_\SIG" />
-      <recent name="C:\xampp\htdocs\lightbook\_\pgb" />
-      <recent name="C:\xampp\htdocs\lightbook\_\msc" />
-      <recent name="C:\xampp\htdocs\lightbook\_\imp\dsmorse-gridster.js-3613220\demos\assets\css" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\xampp\htdocs\lightbook\_" />
       <recent name="C:\xampp\htdocs\lightbook\_\imp\cute-file-browser\files" />
       <recent name="C:\xampp\htdocs\lightbook\_\imp\cute-file-browser\assets" />
       <recent name="C:\xampp\htdocs\lightbook\_\wall" />
       <recent name="C:\xampp\htdocs\lightbook\_\01" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\lightbook\css" />
+      <recent name="C:\xampp\htdocs\lightbook\_" />
+      <recent name="C:\xampp\htdocs\lightbook\_\SIG" />
+      <recent name="C:\xampp\htdocs\lightbook\_\pgb" />
+      <recent name="C:\xampp\htdocs\lightbook\_\msc" />
     </key>
   </component>
   <component name="RunManager">
@@ -331,7 +348,8 @@
       <workItem from="1475938678399" duration="25461000" />
       <workItem from="1476025906769" duration="604000" />
       <workItem from="1476192741001" duration="49006000" />
-      <workItem from="1476458470707" duration="620000" />
+      <workItem from="1476458470707" duration="2224000" />
+      <workItem from="1476629733721" duration="228000" />
     </task>
     <task id="LOCAL-00001" summary="08:26">
       <created>1475753212206</created>
@@ -438,17 +456,24 @@
       <option name="project" value="LOCAL" />
       <updated>1475981661938</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="14 de Outubro de 2016&#10;12 Horas e 49 Minutos">
+      <created>1476460236400</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1476460236400</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="231086000" />
+    <option name="totallyTimeSpent" value="232918000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20045386" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20347957" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32764506" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3283237" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -495,7 +520,8 @@
     <MESSAGE value="8 de Outubro de 2016&#10;21 Horas e 30 Minutos" />
     <MESSAGE value="8 de Outubro de 2016&#10;23 Horas e 38 Minutos" />
     <MESSAGE value="8 de Outubro de 2016&#10;23 Horas e 40 Minutos" />
-    <option name="LAST_COMMIT_MESSAGE" value="8 de Outubro de 2016&#10;23 Horas e 40 Minutos" />
+    <MESSAGE value="14 de Outubro de 2016&#10;12 Horas e 49 Minutos" />
+    <option name="LAST_COMMIT_MESSAGE" value="14 de Outubro de 2016&#10;12 Horas e 49 Minutos" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -504,20 +530,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_/imp/dsmorse-gridster.js-3613220/demos/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="16" column="45" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_/imp/html5-music-player-app/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-272">
-          <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_/msc/app/assets/js/script.js" />
     <entry file="file://$PROJECT_DIR$/_/msc/file/files/styles.css" />
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/1f6721d8-6f5b-42db-a08c-c4817fb0f582/console.sql">
@@ -811,6 +823,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="434">
           <caret line="57" column="8" selection-start-line="57" selection-start-column="8" selection-end-line="57" selection-end-column="11" />
+          <folding>
+            <element signature="e#75#160#0#PHP" expanded="false" />
+            <marker date="1475767402725" expanded="true" signature="815:983" ph="create table... lightbook" />
+            <marker date="1475767402725" expanded="true" signature="1122:1384" ph="create table... logbook" />
+            <marker date="1475767402725" expanded="true" signature="1524:1717" ph="create table... lights" />
+            <marker date="1475767402725" expanded="true" signature="1845:1893" ph="select * fro... lightbook" />
+            <marker date="1475767402725" expanded="true" signature="2056:2155" ph="insert into lightbook... " />
+            <marker date="1475767402725" expanded="true" signature="2424:2445" ph="select * fro... logbook" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -839,44 +860,59 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/01.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1003">
-          <caret line="125" column="21" selection-start-line="125" selection-start-column="21" selection-end-line="125" selection-end-column="21" />
-          <folding>
-            <element signature="e#21#198#0" expanded="false" />
-            <element signature="e#253#355#0" expanded="false" />
-            <element signature="e#367#414#0" expanded="false" />
-            <element signature="e#569#1243#0" expanded="false" />
-            <element signature="e#1260#1427#0" expanded="false" />
-            <element signature="e#1445#1753#0" expanded="false" />
-            <element signature="e#2885#3207#0" expanded="false" />
-            <element signature="e#3857#4422#0" expanded="false" />
-            <element signature="e#4431#4612#0" expanded="false" />
-            <element signature="e#4620#4891#0" expanded="false" />
-            <element signature="e#5013#5105#0" expanded="false" />
-            <element signature="e#5115#5221#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_/mn.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="102" selection-start-line="2" selection-start-column="102" selection-end-line="2" selection-end-column="102" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/--.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="31">
+          <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/01.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="439">
+          <caret line="195" column="1" selection-start-line="195" selection-start-column="1" selection-end-line="195" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="120" column="76" selection-start-line="120" selection-start-column="76" selection-end-line="120" selection-end-column="76" />
+        <state relative-caret-position="391">
+          <caret line="23" column="58" selection-start-line="23" selection-start-column="58" selection-end-line="23" selection-end-column="58" />
           <folding>
-            <marker date="1476405240691" expanded="false" signature="612:633" ph="select * fro... logbook" />
-            <marker date="1476405240691" expanded="false" signature="835:858" ph="select * fro... lightbook" />
-            <marker date="1476405240691" expanded="false" signature="2176:2196" ph="select * fro... lights" />
-            <marker date="1476405240691" expanded="true" signature="2951:9483" ph="..." />
+            <marker date="1476471832380" expanded="false" signature="612:633" ph="select * fro... logbook" />
+            <marker date="1476471832380" expanded="false" signature="835:858" ph="select * fro... lightbook" />
+            <marker date="1476471832380" expanded="false" signature="2176:2196" ph="select * fro... lights" />
+            <marker date="1476471832380" expanded="true" signature="2951:9462" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/02.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="131" column="44" selection-start-line="131" selection-start-column="44" selection-end-line="131" selection-end-column="44" />
+          <folding>
+            <element signature="e#21#198#0" expanded="false" />
+            <element signature="e#253#355#0" expanded="false" />
+            <element signature="e#367#414#0" expanded="false" />
+            <element signature="e#470#576#0" expanded="false" />
+            <element signature="e#587#1261#0" expanded="false" />
+            <element signature="e#1278#1445#0" expanded="false" />
+            <element signature="e#1463#1771#0" expanded="false" />
+            <element signature="e#2903#3225#0" expanded="false" />
+            <element signature="e#3708#3772#0" expanded="false" />
+            <element signature="e#3907#4472#0" expanded="false" />
+            <element signature="e#4481#4662#0" expanded="false" />
+            <element signature="e#4670#4941#0" expanded="false" />
+            <element signature="e#5063#5155#0" expanded="false" />
+            <element signature="e#5165#5271#0" expanded="false" />
           </folding>
         </state>
       </provider>

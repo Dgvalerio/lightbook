@@ -21,7 +21,7 @@ if ($test1 == 0){ print("<script> location.href = '../index.php'; </script>"); }
     <script src="../js/jquery-3.1.0.min.js"> </script>
     <script src="../js/js.js"> </script>
     <script src="../bootstrap-4.0.0-alpha.4/dist/js/bootstrap.min.js"></script>
-    <link rel="stylesheet" type="text/css" href="../css/01.css">
+    <link rel="stylesheet" type="text/css" href="../css/02.css">
     <script src="imp/dsmorse-gridster.js-3613220/dist/jquery.gridster.min.js" type="text/javascript" charset="utf-8"></script>
     <?php include_once'01.php' ?>
     <?php
@@ -45,7 +45,7 @@ if ($test1 == 0){ print("<script> location.href = '../index.php'; </script>"); }
     </script>
 </head>
 <body class="container-fluid text-md-center"> <br/>
-<header style="color: #fff;"> <h1> LightBook: <?php echo $usuario; ?> </h1> <?php include_once'mn.php' ?> </header>
+<header> <h1> LightBook: <?php echo $usuario; ?> </h1> <?php include_once'mn.php' ?> </header>
 <div class="collapse" id="bdy1">
     <section>
         <div id="demo-1" class="gridster ready"> <ul>
